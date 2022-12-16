@@ -8,7 +8,7 @@ This projects aims to look at the fish population for the entire Hudson River. T
 
 ## Features
 * The site has only one page, with the map component on the left side and a simple sidebar on the right for fish information.
-![front page of the website]([http://url/to/img.png](https://github.com/wazaqa-wah/Fishmap_Fianl-Project/blob/main/site_1.png))
+![This image shows the front page of the map, with a leaflet map on the left containing the fish polyons and a side bar on the right](https://github.com/wazaqa-wah/Fishmap_Fianl-Project/blob/main/site_1.png "Front page of the map")
 
 ## Code References
 
