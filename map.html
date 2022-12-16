@@ -1,0 +1,351 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+    <meta charset="utf-8">
+    <title>Hudson River fish</title>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.3/dist/leaflet.css" integrity="sha256-kLaT2GOSpHechhsozzB+flnD+zUyjE2LlfWPgU04xyI=" crossorigin="" />
+    <script src='https://unpkg.com/@turf/turf@6/turf.min.js'></script>
+    <script src= "https://d3js.org/d3.v7.min.js"></script>
+    <script src="https://d3js.org/d3-geo-projection.v2.min.js"></script>
+    <script src="https://d3js.org/d3-scale-chromatic.v1.min.js"></script>
+    <script src="https://d3js.org/d3-collection.v1.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/topojson/1.6.19/topojson.min.js"></script>
+    <script src="https://unpkg.com/leaflet@1.9.3/dist/leaflet.js" integrity="sha256-WBkoXOwTeyKclOHuWtc+i2uENFpDZ9YPdf5Hf+D7ewM=" crossorigin=""></script>
+    <script src="bootstrap.js"></script>
+    <!--stylesheet and stuff -->
+    <link rel="stylesheet" href="bootstrap.css">
+   
+
+    <style>
+       @import url('https://fonts.googleapis.com/css2?family=Caveat:wght@500&display=swap');
+        #scroll {
+            height: 650px;
+            overflow: scroll;
+            border-style: solid;
+            border-width: 2px;
+            border-color: #3a6ea5;
+            margin-top: 20px;
+            padding: 10px;
+            border-radius: 10px;
+        }
+
+        .rowID{
+            background-color: #c0c0c0;
+            
+        }
+
+        a {
+            font-weight: bold;
+            color: #004e98;
+        }
+
+        #tooltip{
+            height:80px;
+            width:200px;
+            border-style: solid;
+            border-width: 1.5px;
+            border-color: #3a6ea5;
+            background-color: #ebebeb;
+            border-radius: 5px;
+        }
+
+        .instruction{
+            font-weight: bold;
+            color: black;
+            margin-left: 100px;
+        }
+
+        body{
+            background-color:#ebebeb;
+            
+        }
+
+        h1{
+            font-family: 'Caveat', cursive;
+            color: #004e98;
+            font-size: 35pt;
+            margin-left: 100px;
+            margin-top: 30px;
+            
+        }
+
+        .colTitle{
+            color: #004e98 ; 
+            font-family: 'Caveat', cursive;
+            font-size: 25pt;
+        }
+
+        #map{
+            border-style: solid;
+            border-width: 2px;
+            border-color: #3a6ea5;
+        }
+
+        .col-4 {
+            margin-left: 100px;
+        }
+
+      
+    </style>
+
+   
+    </head>
+    <body>
+        <div class = "container-fluid">
+            <h1>Hudson River Fish Biodiversity Map</h1>
+            <p class="instruction">Zoom out (-) to see the entire river map; zoom in (+) to hover over and click different sections of the river to explore fishes inside.</p>
+        </div>
+        <div class = "container-fluid ">
+            <div class = "row">
+                <div id="map" style=" height: 750px; margin-left: 100px;" class="col-6"></div>
+                <div class="col-4">
+                    <!-- tables and scroll -->
+                    <p class = "colTitle"> Fish information in current water body</p>
+                    
+                    <div id="scroll">
+                        <p> Click on fish name and learn more on Wikipedia!</p>
+                        
+                    </div>
+                <!-- Button trigger modal -->
+                    <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#exampleModal">
+                        About this Project
+                    </button>
+
+                    <!-- Modal -->
+                    <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                        <div class="modal-dialog">
+                        <div class="modal-content">
+                            <div class="modal-header">
+                            <h1 class="modal-title fs-5" id="exampleModalLabel">About this Project</h1>
+                            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                            </div>
+                            <div class="modal-body">
+                                This projects aims to look at the fish population for the entire Hudson River. The dataset used is from National Oceanic and Atmospheric Administration (NOAA)'s Sensitivity of Coastal Environments and Wildlife to Spilled Oil: Hudson River. This fish dataset is chosen specifically because it not only shows the beautiful shape of the Hudson River, but it's also of interest to the author since she has pet fishes since she was a kid. The map shows sensitive biological resource data for marine, estuarine, anadromous, and freshwater fish species in the Hudson River, as well as their species-specific abundance, seasonality, status, life history, and source information. For the purpose of this projects, only the basic information of the fishes is being utilized.
+                            </div>
+                            <div class="modal-footer">
+                            <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+                            </div>
+                        </div>
+                        </div>
+                    </div>
+
+                    
+
+
+                </div>
+            </div>
+        </div>
+        
+        <script type="text/javascript">
+
+            const map = L.map('map').setView([42.429856137251186, -73.8025601302362], 13);
+
+            L.tileLayer('https://tiles.stadiamaps.com/tiles/outdoors/{z}/{x}/{y}{r}.png', {
+                attribution: '&copy; <a href="https://stadiamaps.com/">Stadia Maps</a> contributors'
+            }).addTo(map);
+
+            const svg = d3.select(map.getPanes().overlayPane).append("svg").style("position", "relative"),
+            g = svg.append("g")
+                    .attr("class", "leaflet-zoom-hide");
+
+            function projectPoint(x, y) {
+                var point = map.latLngToLayerPoint(new L.LatLng(y, x));
+                this.stream.point(point.x, point.y);
+            }
+
+            const transform = d3.geoTransform({point: projectPoint});
+            const geoPath = d3.geoPath()
+                            .projection(transform);
+
+            const riverColor = d3.scaleOrdinal()
+                            .range(["#006d77", "#83c5be", "#ffddd2", "#e29578"]);
+
+
+
+        const tooltip =d3.select("body")
+                          .append("div")
+                          .attr("id", "tooltip")
+                          .style("opacity", 0)
+                          .style("position","absolute")
+                          .style("z-index",1000);
+
+        const rewind = (geo) => {
+                const fixedGeoJSON = { ...geo };
+                fixedGeoJSON.features = fixedGeoJSON.features.map(f =>{
+                    // console.log('rewind',f )
+                return turf.rewind(f, { reverse: true })
+                }
+                );
+                return fixedGeoJSON;
+            }
+
+        let fishPoly = new Map();
+
+        Promise.all([
+            d3.json("fish_polygon.geojson"), 
+            d3.csv("fish_bio.csv", function(d) {
+                // we've already added things for this polygon
+                if (fishPoly.get(+d.RARNUM)) {
+                    fishPoly.set(+d.RARNUM, fishPoly.get(+d.RARNUM).concat(d))
+                } else {
+                    // create key/value dataset for fish data
+                    fishPoly.set(+d.RARNUM, [d])   
+                }
+            })
+                ]).then(function(files) {
+                const fish = rewind(files[0]);
+                console.log(fishPoly);
+                
+
+
+                
+
+
+                var tip;
+                const feature = g.selectAll("path")
+                    .data(fish.features)
+                    .enter().append('path')
+                    .attr("d", geoPath)
+                    .attr("fill", riverColor)
+                    .attr("stroke", "#013a63")
+                    .attr("stroke-width", "0.5px")
+                    .style("pointer-events", "all")
+                    .on("mouseover mousemove", function (event,d) { 
+                            d3.select(this).style("fill", "#2c7da0").style("fill-opacity", .7);
+                            
+                            console.log("mouseover",fishPoly.get(d.properties.RARNUM));
+                            
+                            // wanted to disply fish name, but it would be too much for the tooltip, but left code here for future reference
+                            // let fishName = '';
+                            // fishPoly.get(d.properties.RARNUM).forEach(fish => {
+                            //     fishName = fishName + ' ' + fish.NAME;
+                                
+                            // });
+                            
+                            fishNumber = fishPoly.get(d.properties.RARNUM).length
+                            console.log(fishNumber);
+                            
+
+
+                            tooltip.style("opacity", 1)
+                                    .html("Fish species number: " + "<br>" + fishNumber + "<br>" +"Click to learn more!")
+                                    .style("left", (event.pageX + 2) + "px")
+                                    .style("top", (event.pageY + 2) + "px");
+                        })
+                        .on("mouseout", function () { 
+                            d3.select(this).style("fill", "#a9d6e5").style("fill-opacity", .2);
+                            tooltip.style("opacity", 0);
+                            // tooltip.call("hover", null);
+                        })
+                        .on("click",function (event,d){
+                            d3.select(this).transition().style("fill-opacity", .7);
+                            document.getElementById("scroll").innerHTML="";
+                            let fishData = [];
+                            fishPoly.get(d.properties.RARNUM).forEach(fish => {
+                                fishData.push({
+                                    "subelement": fish.SUBELEMENT,
+                                    "scientific name": fish.Scientific_name,
+                                    "present around": fish.SEASSUM
+                                })
+                                
+                                const fishTank = document.createElement("div");
+                                fishTank.setAttribute('class', 'tankID');
+
+                                const fishA = document.createElement("a");
+                                const fishHead = document.createTextNode(fish.NAME);
+                                fishA.appendChild(fishHead); 
+                                fishA.title = "Link to more fish info";
+                                const urlName = fish.NAME.replace(" ","_");
+                                fishA.href = `https://en.wikipedia.org/wiki/${urlName}`; 
+
+                                const catRow = document.createElement("div");
+                                catRow.setAttribute('class', 'rowID');
+                                const catNameV = document.createTextNode(fish.SUBELEMENT);
+                                const catNameK = document.createTextNode("Fish Subelement: ");
+
+                                const sciRow = document.createElement("div");
+                                sciRow.setAttribute('class', 'rowID');
+                                const sciNameV = document.createTextNode(fish.Scientific_name);
+                                const sciNameK = document.createTextNode("Scidentific Name: ");
+
+                                const presentRow = document.createElement("div");
+                                presentRow.setAttribute('class', 'rowID');
+                                const presentV = document.createTextNode(fish.SEASSUM);
+                                const presentK = document.createTextNode("Present Around: ");
+
+                                fishTank.appendChild(fishA);
+
+                                catRow.appendChild(catNameK);
+                                catRow.appendChild(catNameV);
+                                fishTank.appendChild(catRow);
+
+                                sciRow.appendChild(sciNameK);
+                                sciRow.appendChild(sciNameV);
+                                fishTank.appendChild(sciRow);
+
+                                presentRow.appendChild(presentK);
+                                presentRow.appendChild(presentV);
+                                fishTank.appendChild(presentRow);
+
+                                const sidebarDiv = document.getElementById("scroll");
+                            
+
+                                sidebarDiv.appendChild(fishTank);
+
+
+                        
+                            }); 
+                            console.log(fishData)  
+                            
+                        });
+                    
+                    tip = g.append("g")
+                        .attr("transform", "translate(0, -10)")
+                        .selectAll(".hover")
+                        .data([""])
+                        .join("g") // This gets repositioned in hover()
+                        .attr("class", "hover")
+                        .style("pointer-events", "none")
+                        .style("text-anchor", "middle");
+                    
+                   
+                  
+                    
+                    const bounds = geoPath.bounds(fish),
+                    topLeft = bounds[0], // [x, y]
+                    bottomRight = bounds[1];
+
+                    g.attr("transform", "translate(" + -topLeft[0] + "," + -topLeft[1] + ")");
+
+                    map.on("zoom", reset);
+                    reset();
+
+                    function reset() {
+                        const bounds = geoPath.bounds(fish),
+                            topLeft = bounds[0],
+                            bottomRight = bounds[1];
+
+                        svg .attr("width", bottomRight[0] - topLeft[0])
+                            .attr("height", bottomRight[1] - topLeft[1])
+                            .style("left", topLeft[0] + "px")
+                            .style("top", topLeft[1] + "px");
+
+                        g   .attr("transform", "translate(" + -topLeft[0] + "," + -topLeft[1] + ")");
+
+                        feature.attr("d", geoPath);
+            }
+            
+            
+
+        });
+        
+       
+        
+
+        
+
+
+
+        </script>
+    </body>
+</html>

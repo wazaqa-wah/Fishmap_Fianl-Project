@@ -1,0 +1,132 @@
+NAME,Activity,Start,End,Amount
+Atlantic sturgeon,Present,4,10,7
+Atlantic sturgeon,Larvae,5,8,4
+Atlantic sturgeon,Adult,4,10,7
+Atlantic tomcod,Present,1,12,12
+Atlantic tomcod,Spawning,1,1,1
+Atlantic tomcod,Eggs,12,2,11
+Atlantic tomcod,Larvae,1,4,4
+Atlantic tomcod,Juveniles,5,8,4
+Atlantic tomcod,Adult,1,12,12
+Atlantic tomcod,Spawning,12,12,1
+Bay anchovy,Present,1,12,12
+Bay anchovy,Spawning,5,9,5
+Bay anchovy,Eggs,5,9,5
+Bay anchovy,Larvae,6,9,4
+Bay anchovy,Juveniles,8,10,3
+Bay anchovy,Adult,1,12,12
+Blueback herring,Present,3,12,10
+Blueback herring,Juveniles,5,12,8
+Blueback herring,Adult,3,7,5
+Bluefish,Present,6,10,5
+Bluefish,Juveniles,6,10,5
+Bluegill,Present,1,12,12
+Bluegill,Adult,1,12,12
+Brown bullhead,Present,1,12,12
+Brown bullhead,Adult,1,12,12
+Channel catfish,Present,1,12,12
+Channel catfish,Adult,1,12,12
+Common carp,Present,1,12,12
+Common carp,Adult,1,12,12
+Fourspine stickleback,Present,1,12,12
+Fourspine stickleback,Spawning,3,5,3
+Fourspine stickleback,Adult,1,12,12
+Gobies,Present,1,12,12
+Gobies,Spawning,6,8,3
+Gobies,Adult,1,12,12
+Golden shiner,Persent,1,12,12
+Golden shiner,Adult,1,12,12
+Hogchoker,Present,1,12,12
+Hogchoker,Spawning,6,8,3
+Hogchoker,Adult,11,12,2
+Hogchoker,Adult,1,4,4
+Killifish,Present,1,12,12
+Killifish,Juveniles,1,12,12
+Killifish,Adult,1,12,12
+Largemouth bass,Present,1,12,12
+Largemouth bass,Larvae,5,8,4
+Largemouth bass,Juveniles,5,8,4
+Largemouth bass,Adult,1,12,12
+Pumpkinseed,Present,1,12,12
+Pumpkinseed,Adult,1,12,12
+Rainbow smelt,Present,1,12,12
+Rainbow smelt,Adult,10,12,3
+Rainbow smelt,Adult,1,4,4
+Shortnose sturgeon,Present,1,12,12
+Shortnose sturgeon,Adult,1,12,12
+Silversides,Present,1,12,12
+Silversides,Spawning,4,6,3
+Silversides,Eggs,4,6,3
+Silversides,Larvae,4,6,3
+Silversides,Juveniles,1,12,12
+Silversides,Adult,1,12,12
+Smallmouth bass,Present,5,8,4
+Smallmouth bass,Adult,1,12,12
+Spottail shiner,Present,1,12,12
+Spottail shiner,Spawning,3,5,3
+Spottail shiner,Adult,1,12,12
+Striped bass,Present,1,12,12
+Striped bass,Adult,3,11,9
+Summer flounder,Present,1,12,12
+Summer flounder,Adult,5,8,4
+Threespine stickleback,Present,1,12,12
+Threespine stickleback,Spawning,5,7,3
+Threespine stickleback,Eggs,5,7,3
+Threespine stickleback,Larvae,5,7,3
+Threespine stickleback,Juveniles,1,12,12
+Threespine stickleback,Adult,1,12,12
+Walleye,Present,1,12,12
+Walleye,Adult,1,12,12
+White catfish,Present,3,12,10
+White catfish,Larvae,4,6,3
+White catfish,Juveniles,5,12,8
+White catfish,Adult,1,12,12
+White perch,Present,1,12,12
+White perch,Juveniles,1,12,12
+White perch,Adult,1,12,12
+Yellow perch,Present,3,12,10
+Yellow perch,Juveniles,5,12,8
+Yellow perch,Adult,1,12,12
+Alewife,Present,5,8,4
+Alewife,Juveniles,5,8,4
+Alewife,Adult,3,7,5
+American eel,Present,1,12,12
+American eel,Juveniles,1,12,12
+American shad,Present,3,12,10
+American shad,Juveniles,5,12,8
+American shad,Adult,3,7,5
+Atlantic menhaden,Present,5,8,4
+Atlantic menhaden,Juveniles,5,8,4
+Atlantic menhaden,Adult,5,8,4
+Northern pipefish,Present,4,10,7
+Northern pipefish,Spawning,5,8,4
+Northern pipefish,Juveniles,4,10,7
+Northern pipefish,Adult,4,10,7
+Striped mullet,Present,5,8,4
+Striped mullet,Juveniles,5,8,4
+Striped mullet,Adult,5,8,4
+Tautog,Present,1,12,12
+Tautog,Juveniles,1,12,12
+Weakfish,Present,5,10,6
+Weakfish,Spawning,5,7,3
+Weakfish,Juveniles,7,10,4
+Weakfish,Adult,5,7,3
+White mullet,Present,5,8,4
+White mullet,Juveniles,5,8,4
+White mullet,Adult,5,8,4
+Winter flounder,Present,1,12,12
+Winter flounder,Juveniles,1,12,12
+Tessellated darter,Present,1,12,12
+Tessellated darter,Spawning,6,8,3
+Tessellated darter,Adult,1,12,12
+American brook lamprey,Present,1,12,12
+American brook lamprey,Eggs,1,12,12
+Bridle shiner,Present,1,12,12
+Bridle shiner,Spawning,6,8,3
+Bridle shiner,Adult,1,12,12
+Central mudminnow,Present,1,12,12
+Central mudminnow,Spawning,6,8,3
+Central mudminnow,Adult,1,12,12
+Northern hog sucker,Present,1,12,12
+Northern hog sucker,Spawning,3,5,3
+Northern hog sucker,Adult,1,12,12

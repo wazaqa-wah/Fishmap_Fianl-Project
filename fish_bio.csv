@@ -1,0 +1,656 @@
+﻿OID_,ELEMENT,SUBELEMENT,NAME,Scientific_name,SF,NHP,DATE_PUB,CONC,JAN,FEB,MAR,APR,MAY,JUN,JUL,AUG,SEP,OCT,NOV,DEC_,SEASSUM,Spawning,Eggs,Larvae,Juveniles,Adults,RARNUM,BREED
+1,FISH,Diadromous Fish,Atlantic sturgeon,Acipenser oxyrinchus,Federal Species of Special Concern,G3,200412,-, , , ,X,X,X,X,X,X,X, , ,Apr-Oct,-,-,MAY-AUG,-,APR-OCT,52000104,5200043
+2,FISH,Marine Benthic Fish,Atlantic tomcod,Microgadus tomcod, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,DEC-JAN,DEC-FEB,JAN-APR,MAY-AUG,JAN-DEC,52000104,5200036
+3,FISH,Estuarine Nursery Fish,Bay anchovy,Anchoa mitchilli, , ,0,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,MAY-SEP,MAY-SEP,JUN-SEP,AUG-OCT,JAN-DEC,52000104,5200048
+4,FISH,Diadromous Fish,Blueback herring,Alosa aestivalis, ,G5,200412,-, , ,X,X,X,X,X,X,X,X,X,X,Mar-Dec,-,-,-,MAY-DEC,MAR-JUL,52000104,5200025
+5,FISH,Estuarine Nursery Fish,Bluefish,Pomatomus saltatrix, , ,0,-, , , , , ,X,X,X,X,X, , ,Jun-Oct,-,-,-,JUN-OCT,-,52000104,5200018
+6,FISH,Freshwater Fish,Bluegill,Lepomis macrochirus, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,-,-,JAN-DEC,52000104,5200069
+7,FISH,Freshwater Fish,Brown bullhead,Ameiurus nebulosus, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,-,-,JAN-DEC,52000104,5200074
+8,FISH,Freshwater Fish,Channel catfish,Ictalurus punctatus, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,-,-,JAN-DEC,52000104,5200072
+9,FISH,Freshwater Fish,Common carp,Cyprinus carpio, , ,0,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,-,-,JAN-DEC,52000104,5200058
+10,FISH,Estuarine Resident,Fourspine stickleback,Apeltes quadracus, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,MAR-MAY,-,-,-,JAN-DEC,52000104,5200032
+11,FISH,Marine Benthic Fish,Gobies, , , ,0,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,-,-,JAN-DEC,52000104,5200092
+12,FISH,Freshwater Fish,Golden shiner,Notemigonus crysoleucas, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,-,-,JAN-DEC,52000104,5200079
+13,FISH,Estuarine Nursery Fish,Hogchoker,Trinectes maculatus, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,MAY-OCT,JAN-DEC,NOV-APR,52000104,5200082
+14,FISH,Estuarine Resident,Killifish,Fundulus spp., , ,0,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,JUN-AUG,-,-,-,JAN-DEC,52000104,5200076
+15,FISH,Freshwater Fish,Largemouth bass,Micropterus salmoides, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,-,-,JAN-DEC,52000104,5200063
+16,FISH,Freshwater Fish,Pumpkinseed,Lepomis gibbosus, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,JUN-AUG,-,-,-,JAN-DEC,52000104,5200075
+17,FISH,Freshwater Fish,Rainbow smelt,Osmerus mordax, ,G5,200412,RARE,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,-,JAN-DEC,OCT-APR,52000104,5200019
+18,FISH,Diadromous Fish,Shortnose sturgeon,Acipenser brevirostrum,State/Federal Endangered List,G3,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,MAY-AUG,MAY-AUG,JAN-DEC,52000104,5200039
+19,FISH,Estuarine Resident,Silversides, , , ,0,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,-,-,JAN-DEC,52000104,5200077
+20,FISH,Freshwater Fish,Smallmouth bass,Micropterus dolomieu, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,-,-,JAN-DEC,52000104,5200066
+21,FISH,Freshwater Fish,Spottail shiner,Notropis hudsonius, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,-,-,JAN-DEC,52000104,5200060
+22,FISH,Diadromous Fish,Striped bass,Morone saxatilis, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,APR-JUN,APR-JUN,APR-JUN,JAN-DEC,MAR-NOV,52000104,5200045
+23,FISH,Estuarine Nursery Fish,Summer flounder,Paralichthys dentatus, , ,0,-, , , , ,X,X,X,X, , , , ,May-Aug,-,-,-,-,MAY-AUG,52000104,5200047
+24,FISH,Estuarine Resident,Threespine stickleback,Gasterosteus aculeatus, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,MAR-MAY,-,-,-,JAN-DEC,52000104,5200031
+25,FISH,Freshwater Fish,Walleye,Stizostedion vitreum vitreum, , ,0,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,-,-,JAN-DEC,52000104,5200071
+26,FISH,Freshwater Fish,White catfish,Ameiurus catus, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,-,-,JAN-DEC,52000104,5200085
+27,FISH,Estuarine Nursery Fish,White perch,Morone americana, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,MAY-JUL,MAY-JUL,MAY-JUL,JAN-DEC,JAN-DEC,52000104,5200053
+28,FISH,Freshwater Fish,Yellow perch,Perca flavescens, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,-,-,JAN-DEC,52000104,5200056
+29,FISH,Diadromous Fish,Alewife,Alosa pseudoharengus, ,G5,200412,-, , ,X,X,X,X,X,X,X,X,X,X,Mar-Dec,-,-,APR-JUN,MAY-DEC,MAR-JUL,52000105,5200022
+30,FISH,Diadromous Fish,American eel,Anguilla rostrata, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,-,JAN-DEC,-,52000105,5200034
+31,FISH,Diadromous Fish,American shad,Alosa sapidissima, ,G5,200412,-, , ,X,X,X,X,X,X,X,X,X,X,Mar-Dec,-,-,-,MAY-DEC,MAR-JUL,52000105,5200028
+32,FISH,Estuarine Nursery Fish,Atlantic menhaden,Brevoortia tyrannus, , ,0,-, , , , ,X,X,X,X, , , , ,May-Aug,-,-,-,MAY-AUG,MAY-AUG,52000105,5200049
+33,FISH,Diadromous Fish,Atlantic sturgeon,Acipenser oxyrinchus,Federal Species of Special Concern,G3,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,-,JAN-DEC,APR-OCT,52000105,5200041
+34,FISH,Marine Benthic Fish,Atlantic tomcod,Microgadus tomcod, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,DEC-JAN,DEC-FEB,JAN-APR,MAY-AUG,JAN-DEC,52000105,5200036
+35,FISH,Estuarine Nursery Fish,Bay anchovy,Anchoa mitchilli, , ,0,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,MAY-SEP,MAY-SEP,JUN-SEP,AUG-OCT,JAN-DEC,52000105,5200048
+36,FISH,Diadromous Fish,Blueback herring,Alosa aestivalis, ,G5,200412,-, , ,X,X,X,X,X,X,X,X,X,X,Mar-Dec,-,-,-,MAY-DEC,MAR-JUL,52000105,5200025
+37,FISH,Estuarine Nursery Fish,Bluefish,Pomatomus saltatrix, , ,0,-, , , , , ,X,X,X,X,X, , ,Jun-Oct,-,-,-,JUN-OCT,JUN-SEP,52000105,5200017
+38,FISH,Freshwater Fish,Common carp,Cyprinus carpio, , ,0,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,-,-,JAN-DEC,52000105,5200058
+39,FISH,Estuarine Resident,Fourspine stickleback,Apeltes quadracus, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,MAR-MAY,-,-,-,JAN-DEC,52000105,5200032
+40,FISH,Marine Benthic Fish,Gobies, , , ,0,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,-,-,JAN-DEC,52000105,5200092
+41,FISH,Estuarine Nursery Fish,Hogchoker,Trinectes maculatus, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,MAY-OCT,JAN-DEC,NOV-APR,52000105,5200082
+42,FISH,Estuarine Resident,Killifish,Fundulus spp., , ,0,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,JUN-AUG,-,-,-,JAN-DEC,52000105,5200076
+43,FISH,Freshwater Fish,Rainbow smelt,Osmerus mordax, ,G5,200412,RARE,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,-,JAN-DEC,OCT-APR,52000105,5200019
+44,FISH,Diadromous Fish,Shortnose sturgeon,Acipenser brevirostrum,State/Federal Endangered List,G3,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,MAY-AUG,MAY-AUG,JAN-DEC,52000105,5200039
+45,FISH,Estuarine Resident,Silversides, , , ,0,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,-,-,JAN-DEC,52000105,5200077
+46,FISH,Diadromous Fish,Striped bass,Morone saxatilis, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,APR-JUN,JAN-DEC,JAN-DEC,52000105,5200046
+47,FISH,Estuarine Nursery Fish,Summer flounder,Paralichthys dentatus, , ,0,-, , , , ,X,X,X,X, , , , ,May-Aug,-,-,-,-,MAY-AUG,52000105,5200047
+48,FISH,Estuarine Resident,Threespine stickleback,Gasterosteus aculeatus, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,MAR-MAY,-,-,-,JAN-DEC,52000105,5200031
+49,FISH,Freshwater Fish,Walleye,Stizostedion vitreum vitreum, , ,0,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,-,-,JAN-DEC,52000105,5200071
+50,FISH,Freshwater Fish,White catfish,Ameiurus catus, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,-,-,JAN-DEC,52000105,5200085
+51,FISH,Estuarine Nursery Fish,White perch,Morone americana, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,MAY-JUL,MAY-JUL,MAY-JUL,JAN-DEC,JAN-DEC,52000105,5200053
+52,FISH,Estuarine Nursery Fish,Atlantic menhaden,Brevoortia tyrannus, , ,0,-, , , , ,X,X,X,X, , , , ,May-Aug,-,-,-,MAY-AUG,MAY-AUG,52000106,5200049
+53,FISH,Marine Benthic Fish,Atlantic tomcod,Microgadus tomcod, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,DEC-JAN,DEC-FEB,JAN-APR,MAY-AUG,JAN-DEC,52000106,5200036
+54,FISH,Estuarine Nursery Fish,Bay anchovy,Anchoa mitchilli, , ,0,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,MAY-SEP,MAY-SEP,JUN-SEP,AUG-OCT,JAN-DEC,52000106,5200048
+55,FISH,Estuarine Nursery Fish,Bluefish,Pomatomus saltatrix, , ,0,-, , , , , ,X,X,X,X,X, , ,Jun-Oct,-,-,-,JUN-OCT,JUN-SEP,52000106,5200017
+56,FISH,Freshwater Fish,Common carp,Cyprinus carpio, , ,0,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,-,-,JAN-DEC,52000106,5200058
+57,FISH,Estuarine Resident,Fourspine stickleback,Apeltes quadracus, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,MAR-MAY,-,-,-,JAN-DEC,52000106,5200032
+58,FISH,Marine Benthic Fish,Gobies, , , ,0,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,-,-,JAN-DEC,52000106,5200092
+59,FISH,Estuarine Nursery Fish,Hogchoker,Trinectes maculatus, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,MAY-OCT,JAN-DEC,NOV-APR,52000106,5200082
+60,FISH,Estuarine Resident,Killifish,Fundulus spp., , ,0,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,JUN-AUG,-,-,-,JAN-DEC,52000106,5200076
+61,FISH,Freshwater Fish,Rainbow smelt,Osmerus mordax, ,G5,200412,RARE,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,-,JAN-DEC,OCT-APR,52000106,5200019
+62,FISH,Estuarine Resident,Silversides, , , ,0,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,-,-,JAN-DEC,52000106,5200077
+63,FISH,Estuarine Nursery Fish,Summer flounder,Paralichthys dentatus, , ,0,-, , , , ,X,X,X,X, , , , ,May-Aug,-,-,-,-,MAY-AUG,52000106,5200047
+64,FISH,Estuarine Resident,Threespine stickleback,Gasterosteus aculeatus, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,MAR-MAY,-,-,-,JAN-DEC,52000106,5200031
+65,FISH,Freshwater Fish,Walleye,Stizostedion vitreum vitreum, , ,0,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,-,-,JAN-DEC,52000106,5200071
+66,FISH,Freshwater Fish,White catfish,Ameiurus catus, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,-,-,JAN-DEC,52000106,5200085
+67,FISH,Estuarine Nursery Fish,White perch,Morone americana, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,MAY-JUL,MAY-JUL,MAY-JUL,JAN-DEC,JAN-DEC,52000106,5200053
+68,FISH,Estuarine Nursery Fish,Atlantic menhaden,Brevoortia tyrannus, , ,0,-, , , , ,X,X,X,X, , , , ,May-Aug,-,-,-,MAY-AUG,MAY-AUG,52000107,5200049
+69,FISH,Marine Benthic Fish,Atlantic tomcod,Microgadus tomcod, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,DEC-JAN,DEC-FEB,JAN-APR,MAY-AUG,JAN-DEC,52000107,5200036
+70,FISH,Estuarine Nursery Fish,Bay anchovy,Anchoa mitchilli, , ,0,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,MAY-SEP,MAY-SEP,JUN-SEP,AUG-OCT,JAN-DEC,52000107,5200048
+71,FISH,Estuarine Nursery Fish,Bluefish,Pomatomus saltatrix, , ,0,-, , , , , ,X,X,X,X,X, , ,Jun-Oct,-,-,-,JUN-OCT,JUN-SEP,52000107,5200017
+72,FISH,Freshwater Fish,Bluegill,Lepomis macrochirus, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,-,-,JAN-DEC,52000107,5200069
+73,FISH,Freshwater Fish,Brown bullhead,Ameiurus nebulosus, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,-,-,JAN-DEC,52000107,5200074
+74,FISH,Freshwater Fish,Channel catfish,Ictalurus punctatus, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,-,-,JAN-DEC,52000107,5200072
+75,FISH,Freshwater Fish,Common carp,Cyprinus carpio, , ,0,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,-,-,JAN-DEC,52000107,5200058
+76,FISH,Estuarine Resident,Fourspine stickleback,Apeltes quadracus, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,MAR-MAY,-,-,-,JAN-DEC,52000107,5200032
+77,FISH,Marine Benthic Fish,Gobies, , , ,0,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,-,-,JAN-DEC,52000107,5200092
+78,FISH,Estuarine Nursery Fish,Hogchoker,Trinectes maculatus, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,MAY-OCT,JAN-DEC,NOV-APR,52000107,5200082
+79,FISH,Estuarine Resident,Killifish,Fundulus spp., , ,0,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,JUN-AUG,-,-,-,JAN-DEC,52000107,5200076
+80,FISH,Freshwater Fish,Largemouth bass,Micropterus salmoides, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,-,-,JAN-DEC,52000107,5200063
+81,FISH,Freshwater Fish,Pumpkinseed,Lepomis gibbosus, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,JUN-AUG,-,-,-,JAN-DEC,52000107,5200075
+82,FISH,Freshwater Fish,Rainbow smelt,Osmerus mordax, ,G5,200412,RARE,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,-,JAN-DEC,OCT-APR,52000107,5200019
+83,FISH,Estuarine Resident,Silversides, , , ,0,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,-,-,JAN-DEC,52000107,5200077
+84,FISH,Freshwater Fish,Smallmouth bass,Micropterus dolomieu, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,-,-,JAN-DEC,52000107,5200066
+85,FISH,Estuarine Nursery Fish,Summer flounder,Paralichthys dentatus, , ,0,-, , , , ,X,X,X,X, , , , ,May-Aug,-,-,-,-,MAY-AUG,52000107,5200047
+86,FISH,Estuarine Resident,Threespine stickleback,Gasterosteus aculeatus, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,MAR-MAY,-,-,-,JAN-DEC,52000107,5200031
+87,FISH,Freshwater Fish,Walleye,Stizostedion vitreum vitreum, , ,0,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,-,-,JAN-DEC,52000107,5200071
+88,FISH,Freshwater Fish,White catfish,Ameiurus catus, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,-,-,JAN-DEC,52000107,5200085
+89,FISH,Estuarine Nursery Fish,White perch,Morone americana, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,MAY-JUL,MAY-JUL,MAY-JUL,JAN-DEC,JAN-DEC,52000107,5200053
+90,FISH,Diadromous Fish,Alewife,Alosa pseudoharengus, ,G5,200412,-, , ,X,X,X,X,X,X,X,X,X,X,Mar-Dec,-,-,APR-JUN,MAY-DEC,MAR-JUL,52000108,5200022
+91,FISH,Diadromous Fish,American eel,Anguilla rostrata, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,-,JAN-DEC,-,52000108,5200034
+92,FISH,Diadromous Fish,American shad,Alosa sapidissima, ,G5,200412,-, , ,X,X,X,X,X,X,X,X,X,X,Mar-Dec,-,-,-,MAY-DEC,MAR-JUL,52000108,5200028
+93,FISH,Estuarine Nursery Fish,Atlantic menhaden,Brevoortia tyrannus, , ,0,-, , , , ,X,X,X,X, , , , ,May-Aug,-,-,-,MAY-AUG,MAY-AUG,52000108,5200049
+94,FISH,Diadromous Fish,Atlantic sturgeon,Acipenser oxyrinchus,Federal Species of Special Concern,G3,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,-,JAN-DEC,APR-OCT,52000108,5200041
+95,FISH,Marine Benthic Fish,Atlantic tomcod,Microgadus tomcod, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,DEC-JAN,DEC-FEB,JAN-APR,MAY-AUG,JAN-DEC,52000108,5200036
+96,FISH,Estuarine Nursery Fish,Bay anchovy,Anchoa mitchilli, , ,0,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,MAY-SEP,MAY-SEP,JUN-SEP,AUG-OCT,JAN-DEC,52000108,5200048
+97,FISH,Diadromous Fish,Blueback herring,Alosa aestivalis, ,G5,200412,-, , ,X,X,X,X,X,X,X,X,X,X,Mar-Dec,-,-,-,MAY-DEC,MAR-JUL,52000108,5200025
+98,FISH,Estuarine Nursery Fish,Bluefish,Pomatomus saltatrix, , ,0,-, , , , , ,X,X,X,X,X, , ,Jun-Oct,-,-,-,JUN-OCT,JUN-SEP,52000108,5200017
+99,FISH,Estuarine Resident,Fourspine stickleback,Apeltes quadracus, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,MAR-MAY,-,-,-,JAN-DEC,52000108,5200032
+100,FISH,Marine Benthic Fish,Gobies, , , ,0,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,-,-,JAN-DEC,52000108,5200092
+101,FISH,Estuarine Nursery Fish,Hogchoker,Trinectes maculatus, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,MAY-OCT,JAN-DEC,NOV-APR,52000108,5200082
+102,FISH,Estuarine Resident,Killifish,Fundulus spp., , ,0,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,JUN-AUG,-,-,-,JAN-DEC,52000108,5200076
+103,FISH,Freshwater Fish,Rainbow smelt,Osmerus mordax, ,G5,200412,RARE,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,-,JAN-DEC,OCT-APR,52000108,5200019
+104,FISH,Diadromous Fish,Shortnose sturgeon,Acipenser brevirostrum,State/Federal Endangered List,G3,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,MAY-AUG,MAY-AUG,JAN-DEC,52000108,5200039
+105,FISH,Estuarine Resident,Silversides, , , ,0,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,-,-,JAN-DEC,52000108,5200077
+106,FISH,Diadromous Fish,Striped bass,Morone saxatilis, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,APR-JUN,JAN-DEC,JAN-DEC,52000108,5200046
+107,FISH,Estuarine Nursery Fish,Summer flounder,Paralichthys dentatus, , ,0,-, , , , ,X,X,X,X, , , , ,May-Aug,-,-,-,-,MAY-AUG,52000108,5200047
+108,FISH,Estuarine Resident,Threespine stickleback,Gasterosteus aculeatus, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,MAR-MAY,-,-,-,JAN-DEC,52000108,5200031
+109,FISH,Estuarine Nursery Fish,White perch,Morone americana, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,MAY-JUL,MAY-JUL,MAY-JUL,JAN-DEC,JAN-DEC,52000108,5200053
+110,FISH,Diadromous Fish,Alewife,Alosa pseudoharengus, ,G5,200412,-, , ,X,X,X,X,X,X,X,X,X,X,Mar-Dec,-,-,APR-JUN,MAY-DEC,MAR-JUL,52000109,5200022
+111,FISH,Diadromous Fish,American eel,Anguilla rostrata, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,-,JAN-DEC,-,52000109,5200034
+112,FISH,Diadromous Fish,American shad,Alosa sapidissima, ,G5,200412,-, , ,X,X,X,X,X,X,X,X,X,X,Mar-Dec,-,-,-,MAY-DEC,MAR-JUL,52000109,5200028
+113,FISH,Estuarine Nursery Fish,Atlantic menhaden,Brevoortia tyrannus, , ,0,-, , , , ,X,X,X,X, , , , ,May-Aug,-,-,-,MAY-AUG,MAY-AUG,52000109,5200049
+114,FISH,Diadromous Fish,Atlantic sturgeon,Acipenser oxyrinchus,Federal Species of Special Concern,G3,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,-,JAN-DEC,APR-OCT,52000109,5200041
+115,FISH,Marine Benthic Fish,Atlantic tomcod,Microgadus tomcod, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,JAN-APR,MAY-AUG,JAN-DEC,52000109,5200035
+116,FISH,Estuarine Nursery Fish,Bay anchovy,Anchoa mitchilli, , ,0,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,MAY-SEP,MAY-SEP,JUN-SEP,AUG-OCT,JAN-DEC,52000109,5200048
+117,FISH,Diadromous Fish,Blueback herring,Alosa aestivalis, ,G5,200412,-, , ,X,X,X,X,X,X,X,X,X,X,Mar-Dec,-,-,-,MAY-DEC,MAR-JUL,52000109,5200025
+118,FISH,Estuarine Nursery Fish,Bluefish,Pomatomus saltatrix, , ,0,-, , , , , ,X,X,X,X,X, , ,Jun-Oct,-,-,-,JUN-OCT,JUN-SEP,52000109,5200017
+119,FISH,Estuarine Resident,Fourspine stickleback,Apeltes quadracus, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,MAR-MAY,-,-,-,JAN-DEC,52000109,5200032
+120,FISH,Marine Benthic Fish,Gobies, , , ,0,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,-,-,JAN-DEC,52000109,5200092
+121,FISH,Estuarine Nursery Fish,Hogchoker,Trinectes maculatus, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,MAY-OCT,MAY-OCT,JAN-DEC,MAY-OCT,52000109,5200081
+122,FISH,Estuarine Resident,Killifish,Fundulus spp., , ,0,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,JUN-AUG,-,-,-,JAN-DEC,52000109,5200076
+123,FISH,Estuarine Resident,Northern pipefish,Syngnathus fuscus, , ,0,-, , , ,X,X,X,X,X,X,X, , ,Apr-Oct,MAY-AUG,-,-,APR-OCT,APR-OCT,52000109,5200084
+124,FISH,Freshwater Fish,Rainbow smelt,Osmerus mordax, ,G5,200412,RARE,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,-,JAN-DEC,OCT-APR,52000109,5200019
+125,FISH,Diadromous Fish,Shortnose sturgeon,Acipenser brevirostrum,State/Federal Endangered List,G3,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,MAY-AUG,MAY-AUG,JAN-DEC,52000109,5200039
+126,FISH,Estuarine Resident,Silversides, , , ,0,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,-,-,JAN-DEC,52000109,5200077
+127,FISH,Diadromous Fish,Striped bass,Morone saxatilis, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,APR-JUN,JAN-DEC,JAN-DEC,52000109,5200046
+128,FISH,Estuarine Nursery Fish,Striped mullet,Mugil cephalus, , ,0,-, , , , ,X,X,X,X, , , , ,May-Aug,-,-,-,MAY-AUG,MAY-AUG,52000109,5200050
+129,FISH,Estuarine Nursery Fish,Summer flounder,Paralichthys dentatus, , ,0,-, , , , ,X,X,X,X, , , , ,May-Aug,-,-,-,-,MAY-AUG,52000109,5200047
+130,FISH,Marine Benthic Fish,Tautog,Tautoga onitis, , ,0,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,-,JAN-DEC,-,52000109,5200033
+131,FISH,Estuarine Resident,Threespine stickleback,Gasterosteus aculeatus, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,MAR-MAY,-,-,-,JAN-DEC,52000109,5200031
+132,FISH,Marine Pelagic Fish,Weakfish,Cynoscion squamipinnis, , ,0,-, , , , ,X,X,X,X,X,X, , ,May-Oct,MAY-JUL,-,-,JUL-OCT,MAY-JUL,52000109,5200086
+133,FISH,Estuarine Nursery Fish,White mullet,Mugil curema, , ,0,-, , , , ,X,X,X,X, , , , ,May-Aug,-,-,-,MAY-AUG,MAY-AUG,52000109,5200061
+134,FISH,Estuarine Nursery Fish,White perch,Morone americana, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,MAY-JUL,MAY-JUL,JAN-DEC,JAN-DEC,52000109,5200052
+135,FISH,Estuarine Nursery Fish,Winter flounder,Pleuronectes americanus, , ,0,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,-,JAN-DEC,-,52000109,5200030
+136,FISH,Diadromous Fish,Alewife,Alosa pseudoharengus, ,G5,200412,-, , ,X,X,X,X,X,X,X,X,X,X,Mar-Dec,-,-,APR-JUN,MAY-DEC,MAR-JUL,52000110,5200022
+137,FISH,Diadromous Fish,American eel,Anguilla rostrata, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,-,JAN-DEC,-,52000110,5200034
+138,FISH,Diadromous Fish,American shad,Alosa sapidissima, ,G5,200412,-, , ,X,X,X,X,X,X,X,X,X,X,Mar-Dec,-,-,-,MAY-DEC,MAR-JUL,52000110,5200028
+139,FISH,Estuarine Nursery Fish,Atlantic menhaden,Brevoortia tyrannus, , ,0,-, , , , ,X,X,X,X, , , , ,May-Aug,-,-,-,MAY-AUG,MAY-AUG,52000110,5200049
+140,FISH,Diadromous Fish,Atlantic sturgeon,Acipenser oxyrinchus,Federal Species of Special Concern,G3,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,-,JAN-DEC,APR-OCT,52000110,5200041
+141,FISH,Marine Benthic Fish,Atlantic tomcod,Microgadus tomcod, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,JAN-APR,MAY-AUG,JAN-DEC,52000110,5200035
+142,FISH,Estuarine Nursery Fish,Bay anchovy,Anchoa mitchilli, , ,0,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,MAY-SEP,MAY-SEP,JUN-SEP,AUG-OCT,JAN-DEC,52000110,5200048
+143,FISH,Diadromous Fish,Blueback herring,Alosa aestivalis, ,G5,200412,-, , ,X,X,X,X,X,X,X,X,X,X,Mar-Dec,-,-,-,MAY-DEC,MAR-JUL,52000110,5200025
+144,FISH,Estuarine Nursery Fish,Bluefish,Pomatomus saltatrix, , ,0,-, , , , , ,X,X,X,X,X, , ,Jun-Oct,-,-,-,JUN-OCT,JUN-SEP,52000110,5200017
+145,FISH,Estuarine Resident,Fourspine stickleback,Apeltes quadracus, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,MAR-MAY,-,-,-,JAN-DEC,52000110,5200032
+146,FISH,Marine Benthic Fish,Gobies, , , ,0,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,-,-,JAN-DEC,52000110,5200092
+147,FISH,Estuarine Nursery Fish,Hogchoker,Trinectes maculatus, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,MAY-OCT,MAY-OCT,MAY-OCT,JAN-DEC,MAY-OCT,52000110,5200080
+148,FISH,Estuarine Resident,Killifish,Fundulus spp., , ,0,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,JUN-AUG,-,-,-,JAN-DEC,52000110,5200076
+149,FISH,Estuarine Resident,Northern pipefish,Syngnathus fuscus, , ,0,-, , , ,X,X,X,X,X,X,X, , ,Apr-Oct,MAY-AUG,-,-,APR-OCT,APR-OCT,52000110,5200084
+150,FISH,Freshwater Fish,Rainbow smelt,Osmerus mordax, ,G5,200412,RARE,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,-,JAN-DEC,OCT-APR,52000110,5200019
+151,FISH,Diadromous Fish,Shortnose sturgeon,Acipenser brevirostrum,State/Federal Endangered List,G3,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,MAY-AUG,MAY-AUG,JAN-DEC,52000110,5200039
+152,FISH,Freshwater Fish,Bluegill,Lepomis macrochirus, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,JUN-JUL,JUN-JUL,JUN-JUL,JUN-JUL,JAN-DEC,52000081,5200068
+153,FISH,Freshwater Fish,Brown bullhead,Ameiurus nebulosus, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,JUN-AUG,-,-,-,JAN-DEC,52000081,5200073
+154,FISH,Freshwater Fish,Channel catfish,Ictalurus punctatus, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,-,-,JAN-DEC,52000081,5200072
+155,FISH,Freshwater Fish,Common carp,Cyprinus carpio, , ,0,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,MAY-JUL,MAY-JUL,MAY-JUL,JUN-AUG,JAN-DEC,52000081,5200057
+156,FISH,Freshwater Fish,Golden shiner,Notemigonus crysoleucas, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,JUN-AUG,-,-,-,JAN-DEC,52000081,5200078
+157,FISH,Freshwater Fish,Largemouth bass,Micropterus salmoides, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,MAY-JUN,MAY-JUN,MAY-JUN,-,JAN-DEC,52000081,5200062
+158,FISH,Freshwater Fish,Pumpkinseed,Lepomis gibbosus, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,JUN-AUG,-,-,-,JAN-DEC,52000081,5200075
+159,FISH,Freshwater Fish,Smallmouth bass,Micropterus dolomieu, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,MAY-JUN,MAY-JUN,MAY-JUN,JAN-DEC,JAN-DEC,52000081,5200065
+160,FISH,Freshwater Fish,Spottail shiner,Notropis hudsonius, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,JUN-AUG,-,-,-,JAN-DEC,52000081,5200059
+161,FISH,Freshwater Fish,Tessellated darter,Etheostoma olmstedi, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,JUN-AUG,-,-,-,JAN-DEC,52000081,5200089
+162,FISH,Freshwater Fish,Walleye,Stizostedion vitreum vitreum, , ,0,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,APR-MAY,-,-,-,JAN-DEC,52000081,5200070
+163,FISH,Freshwater Fish,White catfish,Ameiurus catus, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,-,-,JAN-DEC,52000081,5200085
+164,FISH,Freshwater Fish,Yellow perch,Perca flavescens, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,JUN-AUG,-,-,-,JAN-DEC,52000081,5200055
+165,FISH,Freshwater Fish,Bluegill,Lepomis macrochirus, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,-,-,JAN-DEC,52000082,5200069
+166,FISH,Freshwater Fish,Brown bullhead,Ameiurus nebulosus, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,-,-,JAN-DEC,52000082,5200074
+167,FISH,Freshwater Fish,Channel catfish,Ictalurus punctatus, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,-,-,JAN-DEC,52000082,5200072
+168,FISH,Freshwater Fish,Common carp,Cyprinus carpio, , ,0,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,-,-,JAN-DEC,52000082,5200058
+169,FISH,Freshwater Fish,Largemouth bass,Micropterus salmoides, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,-,-,JAN-DEC,52000082,5200063
+170,FISH,Freshwater Fish,Pumpkinseed,Lepomis gibbosus, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,JUN-AUG,-,-,-,JAN-DEC,52000082,5200075
+171,FISH,Freshwater Fish,Smallmouth bass,Micropterus dolomieu, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,-,-,JAN-DEC,52000082,5200066
+172,FISH,Freshwater Fish,Walleye,Stizostedion vitreum vitreum, , ,0,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,-,-,JAN-DEC,52000082,5200071
+173,FISH,Freshwater Fish,White catfish,Ameiurus catus, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,-,-,JAN-DEC,52000082,5200085
+174,FISH,Freshwater Fish,Bluegill,Lepomis macrochirus, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,-,-,JAN-DEC,52000083,5200069
+175,FISH,Freshwater Fish,Brown bullhead,Ameiurus nebulosus, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,-,-,JAN-DEC,52000083,5200074
+176,FISH,Freshwater Fish,Channel catfish,Ictalurus punctatus, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,-,-,JAN-DEC,52000083,5200072
+177,FISH,Freshwater Fish,Common carp,Cyprinus carpio, , ,0,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,-,-,JAN-DEC,52000083,5200058
+178,FISH,Freshwater Fish,Golden shiner,Notemigonus crysoleucas, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,-,-,JAN-DEC,52000083,5200079
+179,FISH,Freshwater Fish,Largemouth bass,Micropterus salmoides, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,-,-,JAN-DEC,52000083,5200063
+180,FISH,Freshwater Fish,Pumpkinseed,Lepomis gibbosus, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,JUN-AUG,-,-,-,JAN-DEC,52000083,5200075
+181,FISH,Freshwater Fish,Smallmouth bass,Micropterus dolomieu, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,-,-,JAN-DEC,52000083,5200066
+182,FISH,Freshwater Fish,Spottail shiner,Notropis hudsonius, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,-,-,JAN-DEC,52000083,5200060
+183,FISH,Freshwater Fish,Walleye,Stizostedion vitreum vitreum, , ,0,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,-,-,JAN-DEC,52000083,5200071
+184,FISH,Freshwater Fish,White catfish,Ameiurus catus, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,-,-,JAN-DEC,52000083,5200085
+185,FISH,Freshwater Fish,Yellow perch,Perca flavescens, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,-,-,JAN-DEC,52000083,5200056
+186,FISH,Marine Benthic Fish,Atlantic tomcod,Microgadus tomcod, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,JAN-APR,MAY-AUG,JAN-DEC,52000084,5200035
+187,FISH,Estuarine Nursery Fish,Bay anchovy,Anchoa mitchilli, , ,0,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,MAY-SEP,MAY-SEP,JUN-SEP,AUG-OCT,JAN-DEC,52000084,5200048
+188,FISH,Estuarine Nursery Fish,Bluefish,Pomatomus saltatrix, , ,0,-, , , , , ,X,X,X,X,X, , ,Jun-Oct,-,-,-,JUN-OCT,-,52000084,5200018
+189,FISH,Estuarine Resident,Fourspine stickleback,Apeltes quadracus, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,MAR-MAY,-,-,-,JAN-DEC,52000084,5200032
+190,FISH,Marine Benthic Fish,Gobies, , , ,0,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,-,-,JAN-DEC,52000084,5200092
+191,FISH,Estuarine Nursery Fish,Hogchoker,Trinectes maculatus, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,MAY-OCT,JAN-DEC,NOV-APR,52000084,5200082
+192,FISH,Estuarine Resident,Killifish,Fundulus spp., , ,0,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,JUN-AUG,-,-,-,JAN-DEC,52000084,5200076
+193,FISH,Freshwater Fish,Rainbow smelt,Osmerus mordax, ,G5,200412,RARE,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,-,JAN-DEC,OCT-APR,52000084,5200019
+194,FISH,Estuarine Resident,Silversides, , , ,0,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,-,-,JAN-DEC,52000084,5200077
+195,FISH,Estuarine Resident,Threespine stickleback,Gasterosteus aculeatus, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,MAR-MAY,-,-,-,JAN-DEC,52000084,5200031
+196,FISH,Estuarine Nursery Fish,White perch,Morone americana, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,MAY-JUL,JAN-DEC,JAN-DEC,52000084,5200054
+197,FISH,Marine Benthic Fish,Atlantic tomcod,Microgadus tomcod, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,JAN-APR,MAY-AUG,JAN-DEC,52000085,5200035
+198,FISH,Estuarine Resident,Fourspine stickleback,Apeltes quadracus, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,MAR-MAY,-,-,-,JAN-DEC,52000085,5200032
+199,FISH,Marine Benthic Fish,Gobies, , , ,0,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,-,-,JAN-DEC,52000085,5200092
+200,FISH,Estuarine Nursery Fish,Hogchoker,Trinectes maculatus, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,MAY-OCT,JAN-DEC,NOV-APR,52000085,5200082
+201,FISH,Estuarine Resident,Killifish,Fundulus spp., , ,0,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,JUN-AUG,-,-,-,JAN-DEC,52000085,5200076
+202,FISH,Freshwater Fish,Rainbow smelt,Osmerus mordax, ,G5,200412,RARE,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,-,JAN-DEC,OCT-APR,52000085,5200019
+203,FISH,Estuarine Resident,Silversides, , , ,0,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,-,-,JAN-DEC,52000085,5200077
+204,FISH,Estuarine Resident,Threespine stickleback,Gasterosteus aculeatus, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,MAR-MAY,-,-,-,JAN-DEC,52000085,5200031
+205,FISH,Estuarine Nursery Fish,White perch,Morone americana, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,MAY-JUL,MAY-JUL,MAY-JUL,JAN-DEC,JAN-DEC,52000085,5200053
+206,FISH,Diadromous Fish,Alewife,Alosa pseudoharengus, ,G5,200412,-, , ,X,X,X,X,X,X,X,X,X,X,Mar-Dec,APR-JUN,APR-JUN,APR-JUN,MAY-DEC,MAR-JUL,52000086,5200024
+207,FISH,Diadromous Fish,American eel,Anguilla rostrata, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,-,JAN-DEC,-,52000086,5200034
+208,FISH,Diadromous Fish,American shad,Alosa sapidissima, ,G5,200412,-, , ,X,X,X,X,X,X,X,X,X,X,Mar-Dec,APR-JUN,APR-JUN,APR-JUN,MAY-DEC,MAR-JUL,52000086,5200029
+209,FISH,Diadromous Fish,Atlantic sturgeon,Acipenser oxyrinchus,Federal Species of Special Concern,G3,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,-,JAN-DEC,APR-OCT,52000086,5200041
+210,FISH,Diadromous Fish,Blueback herring,Alosa aestivalis, ,G5,200412,-, , ,X,X,X,X,X,X,X,X,X,X,Mar-Dec,APR-JUN,APR-JUN,APR-JUN,MAY-DEC,MAR-JUL,52000086,5200027
+211,FISH,Freshwater Fish,Bluegill,Lepomis macrochirus, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,JUN-JUL,JUN-JUL,JUN-JUL,JUN-JUL,JAN-DEC,52000086,5200068
+212,FISH,Freshwater Fish,Brown bullhead,Ameiurus nebulosus, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,JUN-AUG,-,-,-,JAN-DEC,52000086,5200073
+213,FISH,Freshwater Fish,Channel catfish,Ictalurus punctatus, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,-,-,JAN-DEC,52000086,5200072
+214,FISH,Freshwater Fish,Common carp,Cyprinus carpio, , ,0,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,MAY-JUL,MAY-JUL,MAY-JUL,JUN-AUG,JAN-DEC,52000086,5200057
+215,FISH,Estuarine Resident,Fourspine stickleback,Apeltes quadracus, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,MAR-MAY,-,-,-,JAN-DEC,52000086,5200032
+216,FISH,Freshwater Fish,Golden shiner,Notemigonus crysoleucas, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,JUN-AUG,-,-,-,JAN-DEC,52000086,5200078
+217,FISH,Estuarine Nursery Fish,Hogchoker,Trinectes maculatus, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,-,JAN-DEC,NOV-APR,52000086,5200083
+218,FISH,Estuarine Resident,Killifish,Fundulus spp., , ,0,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,JUN-AUG,-,-,-,JAN-DEC,52000086,5200076
+219,FISH,Freshwater Fish,Largemouth bass,Micropterus salmoides, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,MAY-JUN,MAY-JUN,MAY-JUN,-,JAN-DEC,52000086,5200062
+220,FISH,Freshwater Fish,Pumpkinseed,Lepomis gibbosus, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,JUN-AUG,-,-,-,JAN-DEC,52000086,5200075
+221,FISH,Diadromous Fish,Shortnose sturgeon,Acipenser brevirostrum,State/Federal Endangered List,G3,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,APR-MAY,APR-JUL,MAY-AUG,MAY-AUG,JAN-DEC,52000086,5200040
+222,FISH,Freshwater Fish,Smallmouth bass,Micropterus dolomieu, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,MAY-JUN,MAY-JUN,MAY-JUN,JAN-DEC,JAN-DEC,52000086,5200065
+223,FISH,Freshwater Fish,Spottail shiner,Notropis hudsonius, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,JUN-AUG,-,-,-,JAN-DEC,52000086,5200059
+224,FISH,Diadromous Fish,Striped bass,Morone saxatilis, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,APR-JUN,APR-JUN,APR-JUN,JAN-DEC,MAR-NOV,52000086,5200045
+225,FISH,Freshwater Fish,Tessellated darter,Etheostoma olmstedi, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,JUN-AUG,-,-,-,JAN-DEC,52000086,5200089
+226,FISH,Estuarine Resident,Threespine stickleback,Gasterosteus aculeatus, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,MAR-MAY,-,-,-,JAN-DEC,52000086,5200031
+227,FISH,Freshwater Fish,Walleye,Stizostedion vitreum vitreum, , ,0,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,APR-MAY,-,-,-,JAN-DEC,52000086,5200070
+228,FISH,Freshwater Fish,White catfish,Ameiurus catus, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,-,-,JAN-DEC,52000086,5200085
+229,FISH,Estuarine Nursery Fish,White perch,Morone americana, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,MAY-JUL,JAN-DEC,JAN-DEC,52000086,5200054
+230,FISH,Freshwater Fish,Yellow perch,Perca flavescens, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,JUN-AUG,-,-,-,JAN-DEC,52000086,5200055
+231,FISH,Diadromous Fish,Alewife,Alosa pseudoharengus, ,G5,200412,-, , ,X,X,X,X,X,X,X,X,X,X,Mar-Dec,APR-JUN,APR-JUN,APR-JUN,MAY-DEC,MAR-JUL,52000087,5200024
+232,FISH,Diadromous Fish,American eel,Anguilla rostrata, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,-,JAN-DEC,-,52000087,5200034
+233,FISH,Diadromous Fish,American shad,Alosa sapidissima, ,G5,200412,-, , ,X,X,X,X,X,X,X,X,X,X,Mar-Dec,APR-JUN,APR-JUN,APR-JUN,MAY-DEC,MAR-JUL,52000087,5200029
+234,FISH,Diadromous Fish,Atlantic sturgeon,Acipenser oxyrinchus,Federal Species of Special Concern,G3,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,-,JAN-DEC,APR-OCT,52000087,5200041
+235,FISH,Diadromous Fish,Blueback herring,Alosa aestivalis, ,G5,200412,-, , ,X,X,X,X,X,X,X,X,X,X,Mar-Dec,APR-JUN,APR-JUN,APR-JUN,MAY-DEC,MAR-JUL,52000087,5200027
+236,FISH,Freshwater Fish,Bluegill,Lepomis macrochirus, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,JUN-JUL,JUN-JUL,JUN-JUL,JUN-JUL,JAN-DEC,52000087,5200068
+237,FISH,Freshwater Fish,Brown bullhead,Ameiurus nebulosus, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,JUN-AUG,-,-,-,JAN-DEC,52000087,5200073
+238,FISH,Freshwater Fish,Channel catfish,Ictalurus punctatus, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,-,-,JAN-DEC,52000087,5200072
+239,FISH,Freshwater Fish,Common carp,Cyprinus carpio, , ,0,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,MAY-JUL,MAY-JUL,MAY-JUL,JUN-AUG,JAN-DEC,52000087,5200057
+240,FISH,Estuarine Resident,Fourspine stickleback,Apeltes quadracus, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,MAR-MAY,-,-,-,JAN-DEC,52000087,5200032
+241,FISH,Freshwater Fish,Golden shiner,Notemigonus crysoleucas, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,JUN-AUG,-,-,-,JAN-DEC,52000087,5200078
+242,FISH,Estuarine Nursery Fish,Hogchoker,Trinectes maculatus, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,-,JAN-DEC,NOV-APR,52000087,5200083
+243,FISH,Estuarine Resident,Killifish,Fundulus spp., , ,0,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,JUN-AUG,-,-,-,JAN-DEC,52000087,5200076
+244,FISH,Freshwater Fish,Largemouth bass,Micropterus salmoides, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,MAY-JUN,MAY-JUN,MAY-JUN,-,JAN-DEC,52000087,5200062
+245,FISH,Freshwater Fish,Largemouth bass,Micropterus salmoides, ,G5,200412,HIGH,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,MAY-JUN,MAY-JUN,MAY-JUN,-,JAN-DEC,52000087,5200062
+246,FISH,Freshwater Fish,Pumpkinseed,Lepomis gibbosus, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,JUN-AUG,-,-,-,JAN-DEC,52000087,5200075
+247,FISH,Diadromous Fish,Shortnose sturgeon,Acipenser brevirostrum,State/Federal Endangered List,G3,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,APR-MAY,APR-JUL,MAY-AUG,MAY-AUG,JAN-DEC,52000087,5200040
+248,FISH,Freshwater Fish,Smallmouth bass,Micropterus dolomieu, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,MAY-JUN,MAY-JUN,MAY-JUN,JAN-DEC,JAN-DEC,52000087,5200065
+249,FISH,Freshwater Fish,Smallmouth bass,Micropterus dolomieu, ,G5,200412,HIGH,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,MAY-JUN,MAY-JUN,MAY-JUN,JAN-DEC,JAN-DEC,52000087,5200065
+250,FISH,Freshwater Fish,Spottail shiner,Notropis hudsonius, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,JUN-AUG,-,-,-,JAN-DEC,52000087,5200059
+251,FISH,Diadromous Fish,Striped bass,Morone saxatilis, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,APR-JUN,APR-JUN,APR-JUN,JAN-DEC,MAR-NOV,52000087,5200045
+252,FISH,Freshwater Fish,Tessellated darter,Etheostoma olmstedi, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,JUN-AUG,-,-,-,JAN-DEC,52000087,5200089
+253,FISH,Estuarine Resident,Threespine stickleback,Gasterosteus aculeatus, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,MAR-MAY,-,-,-,JAN-DEC,52000087,5200031
+254,FISH,Freshwater Fish,Walleye,Stizostedion vitreum vitreum, , ,0,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,APR-MAY,-,-,-,JAN-DEC,52000087,5200070
+255,FISH,Freshwater Fish,White catfish,Ameiurus catus, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,-,-,JAN-DEC,52000087,5200085
+256,FISH,Estuarine Nursery Fish,White perch,Morone americana, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,MAY-JUL,JAN-DEC,JAN-DEC,52000087,5200054
+257,FISH,Freshwater Fish,Yellow perch,Perca flavescens, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,JUN-AUG,-,-,-,JAN-DEC,52000087,5200055
+258,FISH,Diadromous Fish,Alewife,Alosa pseudoharengus, ,G5,200412,-, , ,X,X,X,X,X,X,X,X,X,X,Mar-Dec,APR-JUN,APR-JUN,APR-JUN,MAY-DEC,MAR-JUL,52000088,5200024
+259,FISH,Diadromous Fish,American eel,Anguilla rostrata, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,-,JAN-DEC,-,52000088,5200034
+260,FISH,Diadromous Fish,American shad,Alosa sapidissima, ,G5,200412,-, , ,X,X,X,X,X,X,X,X,X,X,Mar-Dec,APR-JUN,APR-JUN,APR-JUN,MAY-DEC,MAR-JUL,52000088,5200029
+261,FISH,Diadromous Fish,Atlantic sturgeon,Acipenser oxyrinchus,Federal Species of Special Concern,G3,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,-,JAN-DEC,APR-OCT,52000088,5200041
+262,FISH,Diadromous Fish,Blueback herring,Alosa aestivalis, ,G5,200412,-, , ,X,X,X,X,X,X,X,X,X,X,Mar-Dec,APR-JUN,APR-JUN,APR-JUN,MAY-DEC,MAR-JUL,52000088,5200027
+263,FISH,Freshwater Fish,Bluegill,Lepomis macrochirus, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,JUN-JUL,JUN-JUL,JUN-JUL,JUN-JUL,JAN-DEC,52000088,5200068
+264,FISH,Freshwater Fish,Brown bullhead,Ameiurus nebulosus, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,JUN-AUG,-,-,-,JAN-DEC,52000088,5200073
+265,FISH,Freshwater Fish,Channel catfish,Ictalurus punctatus, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,-,-,JAN-DEC,52000088,5200072
+266,FISH,Freshwater Fish,Common carp,Cyprinus carpio, , ,0,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,MAY-JUL,MAY-JUL,MAY-JUL,JUN-AUG,JAN-DEC,52000088,5200057
+267,FISH,Estuarine Resident,Fourspine stickleback,Apeltes quadracus, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,MAR-MAY,-,-,-,JAN-DEC,52000088,5200032
+268,FISH,Freshwater Fish,Golden shiner,Notemigonus crysoleucas, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,JUN-AUG,-,-,-,JAN-DEC,52000088,5200078
+269,FISH,Estuarine Nursery Fish,Hogchoker,Trinectes maculatus, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,-,JAN-DEC,NOV-APR,52000088,5200083
+270,FISH,Estuarine Resident,Killifish,Fundulus spp., , ,0,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,JUN-AUG,-,-,-,JAN-DEC,52000088,5200076
+271,FISH,Freshwater Fish,Largemouth bass,Micropterus salmoides, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,MAY-JUN,MAY-JUN,MAY-JUN,-,JAN-DEC,52000088,5200062
+272,FISH,Freshwater Fish,Pumpkinseed,Lepomis gibbosus, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,JUN-AUG,-,-,-,JAN-DEC,52000088,5200075
+273,FISH,Diadromous Fish,Shortnose sturgeon,Acipenser brevirostrum,State/Federal Endangered List,G3,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,-,-,JAN-DEC,52000088,5200038
+274,FISH,Freshwater Fish,Smallmouth bass,Micropterus dolomieu, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,MAY-JUN,MAY-JUN,MAY-JUN,JAN-DEC,JAN-DEC,52000088,5200065
+275,FISH,Freshwater Fish,Spottail shiner,Notropis hudsonius, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,JUN-AUG,-,-,-,JAN-DEC,52000088,5200059
+276,FISH,Diadromous Fish,Striped bass,Morone saxatilis, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,APR-JUN,APR-JUN,APR-JUN,JAN-DEC,MAR-NOV,52000088,5200045
+277,FISH,Freshwater Fish,Tessellated darter,Etheostoma olmstedi, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,JUN-AUG,-,-,-,JAN-DEC,52000088,5200089
+278,FISH,Estuarine Resident,Threespine stickleback,Gasterosteus aculeatus, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,MAR-MAY,-,-,-,JAN-DEC,52000088,5200031
+279,FISH,Freshwater Fish,Walleye,Stizostedion vitreum vitreum, , ,0,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,APR-MAY,-,-,-,JAN-DEC,52000088,5200070
+280,FISH,Freshwater Fish,White catfish,Ameiurus catus, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,-,-,JAN-DEC,52000088,5200085
+281,FISH,Estuarine Nursery Fish,White perch,Morone americana, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,MAY-JUL,JAN-DEC,JAN-DEC,52000088,5200054
+282,FISH,Freshwater Fish,Yellow perch,Perca flavescens, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,JUN-AUG,-,-,-,JAN-DEC,52000088,5200055
+283,FISH,Diadromous Fish,Alewife,Alosa pseudoharengus, ,G5,200412,-, , ,X,X,X,X,X,X,X,X,X,X,Mar-Dec,APR-JUN,APR-JUN,APR-JUN,MAY-DEC,MAR-JUL,52000089,5200024
+284,FISH,Diadromous Fish,American eel,Anguilla rostrata, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,-,JAN-DEC,-,52000089,5200034
+285,FISH,Diadromous Fish,American shad,Alosa sapidissima, ,G5,200412,-, , ,X,X,X,X,X,X,X,X,X,X,Mar-Dec,APR-JUN,APR-JUN,APR-JUN,MAY-DEC,MAR-JUL,52000089,5200029
+286,FISH,Diadromous Fish,Atlantic sturgeon,Acipenser oxyrinchus,Federal Species of Special Concern,G3,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,-,JAN-DEC,APR-OCT,52000089,5200041
+287,FISH,Diadromous Fish,Blueback herring,Alosa aestivalis, ,G5,200412,-, , ,X,X,X,X,X,X,X,X,X,X,Mar-Dec,APR-JUN,APR-JUN,APR-JUN,MAY-DEC,MAR-JUL,52000089,5200027
+288,FISH,Estuarine Resident,Fourspine stickleback,Apeltes quadracus, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,MAR-MAY,-,-,-,JAN-DEC,52000089,5200032
+289,FISH,Estuarine Nursery Fish,Hogchoker,Trinectes maculatus, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,-,JAN-DEC,NOV-APR,52000089,5200083
+290,FISH,Estuarine Resident,Killifish,Fundulus spp., , ,0,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,JUN-AUG,-,-,-,JAN-DEC,52000089,5200076
+291,FISH,Diadromous Fish,Shortnose sturgeon,Acipenser brevirostrum,State/Federal Endangered List,G3,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,-,-,JAN-DEC,52000089,5200038
+292,FISH,Diadromous Fish,Striped bass,Morone saxatilis, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,APR-JUN,APR-JUN,APR-JUN,JAN-DEC,MAR-NOV,52000089,5200045
+293,FISH,Estuarine Resident,Threespine stickleback,Gasterosteus aculeatus, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,MAR-MAY,-,-,-,JAN-DEC,52000089,5200031
+294,FISH,Estuarine Nursery Fish,White perch,Morone americana, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,MAY-JUL,JAN-DEC,JAN-DEC,52000089,5200054
+295,FISH,Diadromous Fish,Alewife,Alosa pseudoharengus, ,G5,200412,-, , ,X,X,X,X,X,X,X,X,X,X,Mar-Dec,APR-JUN,APR-JUN,APR-JUN,MAY-DEC,MAR-JUL,52000090,5200024
+296,FISH,Diadromous Fish,American eel,Anguilla rostrata, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,-,JAN-DEC,-,52000090,5200034
+297,FISH,Diadromous Fish,American shad,Alosa sapidissima, ,G5,200412,-, , ,X,X,X,X,X,X,X,X,X,X,Mar-Dec,APR-JUN,APR-JUN,APR-JUN,MAY-DEC,MAR-JUL,52000090,5200029
+298,FISH,Diadromous Fish,Atlantic sturgeon,Acipenser oxyrinchus,Federal Species of Special Concern,G3,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,-,JAN-DEC,APR-OCT,52000090,5200041
+299,FISH,Diadromous Fish,Blueback herring,Alosa aestivalis, ,G5,200412,-, , ,X,X,X,X,X,X,X,X,X,X,Mar-Dec,APR-JUN,APR-JUN,APR-JUN,MAY-DEC,MAR-JUL,52000090,5200027
+300,FISH,Estuarine Resident,Fourspine stickleback,Apeltes quadracus, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,MAR-MAY,-,-,-,JAN-DEC,52000090,5200032
+301,FISH,Estuarine Nursery Fish,Hogchoker,Trinectes maculatus, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,-,JAN-DEC,NOV-APR,52000090,5200083
+302,FISH,Estuarine Resident,Killifish,Fundulus spp., , ,0,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,JUN-AUG,-,-,-,JAN-DEC,52000090,5200076
+303,FISH,Freshwater Fish,Largemouth bass,Micropterus salmoides, ,G5,200412,HIGH,X,X,X, , , , , , ,X,X,X,Oct-Mar,-,-,-,-,OCT-MAR,52000090,5200064
+304,FISH,Diadromous Fish,Shortnose sturgeon,Acipenser brevirostrum,State/Federal Endangered List,G3,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,-,-,JAN-DEC,52000090,5200038
+305,FISH,Freshwater Fish,Smallmouth bass,Micropterus dolomieu, ,G5,200412,HIGH,X,X,X, , , , , , ,X,X,X,Oct-Mar,-,-,-,-,OCT-MAR,52000090,5200067
+306,FISH,Diadromous Fish,Striped bass,Morone saxatilis, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,APR-JUN,APR-JUN,APR-JUN,JAN-DEC,MAR-NOV,52000090,5200045
+307,FISH,Estuarine Resident,Threespine stickleback,Gasterosteus aculeatus, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,MAR-MAY,-,-,-,JAN-DEC,52000090,5200031
+308,FISH,Estuarine Nursery Fish,White perch,Morone americana, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,MAY-JUL,JAN-DEC,JAN-DEC,52000090,5200054
+309,FISH,Diadromous Fish,Alewife,Alosa pseudoharengus, ,G5,200412,-, , ,X,X,X,X,X,X,X,X,X,X,Mar-Dec,APR-JUN,APR-JUN,APR-JUN,MAY-DEC,MAR-JUL,52000091,5200024
+310,FISH,Diadromous Fish,American eel,Anguilla rostrata, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,-,JAN-DEC,-,52000091,5200034
+311,FISH,Diadromous Fish,American shad,Alosa sapidissima, ,G5,200412,-, , ,X,X,X,X,X,X,X,X,X,X,Mar-Dec,APR-JUN,APR-JUN,APR-JUN,MAY-DEC,MAR-JUL,52000091,5200029
+312,FISH,Diadromous Fish,Atlantic sturgeon,Acipenser oxyrinchus,Federal Species of Special Concern,G3,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,-,JAN-DEC,APR-OCT,52000091,5200041
+313,FISH,Diadromous Fish,Blueback herring,Alosa aestivalis, ,G5,200412,-, , ,X,X,X,X,X,X,X,X,X,X,Mar-Dec,APR-JUN,APR-JUN,APR-JUN,MAY-DEC,MAR-JUL,52000091,5200027
+314,FISH,Freshwater Fish,Bluegill,Lepomis macrochirus, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,JUN-JUL,JUN-JUL,JUN-JUL,JUN-JUL,JAN-DEC,52000091,5200068
+315,FISH,Freshwater Fish,Brown bullhead,Ameiurus nebulosus, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,JUN-AUG,-,-,-,JAN-DEC,52000091,5200073
+316,FISH,Freshwater Fish,Channel catfish,Ictalurus punctatus, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,-,-,JAN-DEC,52000091,5200072
+317,FISH,Freshwater Fish,Common carp,Cyprinus carpio, , ,0,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,MAY-JUL,MAY-JUL,MAY-JUL,JUN-AUG,JAN-DEC,52000091,5200057
+318,FISH,Estuarine Resident,Fourspine stickleback,Apeltes quadracus, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,MAR-MAY,-,-,-,JAN-DEC,52000091,5200032
+319,FISH,Freshwater Fish,Golden shiner,Notemigonus crysoleucas, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,JUN-AUG,-,-,-,JAN-DEC,52000091,5200078
+320,FISH,Estuarine Nursery Fish,Hogchoker,Trinectes maculatus, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,-,JAN-DEC,NOV-APR,52000091,5200083
+321,FISH,Estuarine Resident,Killifish,Fundulus spp., , ,0,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,JUN-AUG,-,-,-,JAN-DEC,52000091,5200076
+322,FISH,Freshwater Fish,Largemouth bass,Micropterus salmoides, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,MAY-JUN,MAY-JUN,MAY-JUN,-,JAN-DEC,52000091,5200062
+323,FISH,Freshwater Fish,Largemouth bass,Micropterus salmoides, ,G5,200412,HIGH,X,X,X, , , , , , ,X,X,X,Oct-Mar,-,-,-,-,OCT-MAR,52000091,5200064
+324,FISH,Freshwater Fish,Pumpkinseed,Lepomis gibbosus, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,JUN-AUG,-,-,-,JAN-DEC,52000091,5200075
+325,FISH,Diadromous Fish,Shortnose sturgeon,Acipenser brevirostrum,State/Federal Endangered List,G3,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,-,-,JAN-DEC,52000091,5200038
+326,FISH,Freshwater Fish,Smallmouth bass,Micropterus dolomieu, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,MAY-JUN,MAY-JUN,MAY-JUN,JAN-DEC,JAN-DEC,52000091,5200065
+327,FISH,Freshwater Fish,Smallmouth bass,Micropterus dolomieu, ,G5,200412,HIGH,X,X,X, , , , , , ,X,X,X,Oct-Mar,-,-,-,-,OCT-MAR,52000091,5200067
+328,FISH,Freshwater Fish,Spottail shiner,Notropis hudsonius, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,JUN-AUG,-,-,-,JAN-DEC,52000091,5200059
+329,FISH,Diadromous Fish,Striped bass,Morone saxatilis, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,APR-JUN,APR-JUN,APR-JUN,JAN-DEC,MAR-NOV,52000091,5200045
+330,FISH,Freshwater Fish,Tessellated darter,Etheostoma olmstedi, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,JUN-AUG,-,-,-,JAN-DEC,52000091,5200089
+331,FISH,Estuarine Resident,Threespine stickleback,Gasterosteus aculeatus, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,MAR-MAY,-,-,-,JAN-DEC,52000091,5200031
+332,FISH,Freshwater Fish,Walleye,Stizostedion vitreum vitreum, , ,0,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,APR-MAY,-,-,-,JAN-DEC,52000091,5200070
+333,FISH,Freshwater Fish,White catfish,Ameiurus catus, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,-,-,JAN-DEC,52000091,5200085
+334,FISH,Estuarine Nursery Fish,White perch,Morone americana, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,MAY-JUL,JAN-DEC,JAN-DEC,52000091,5200054
+335,FISH,Freshwater Fish,Yellow perch,Perca flavescens, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,JUN-AUG,-,-,-,JAN-DEC,52000091,5200055
+336,FISH,Freshwater Fish,Bluegill,Lepomis macrochirus, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,JUN-JUL,JUN-JUL,JUN-JUL,JUN-JUL,JAN-DEC,52000092,5200068
+337,FISH,Freshwater Fish,Brown bullhead,Ameiurus nebulosus, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,JUN-AUG,-,-,-,JAN-DEC,52000092,5200073
+338,FISH,Freshwater Fish,Channel catfish,Ictalurus punctatus, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,-,-,JAN-DEC,52000092,5200072
+339,FISH,Freshwater Fish,Common carp,Cyprinus carpio, , ,0,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,MAY-JUL,MAY-JUL,MAY-JUL,JUN-AUG,JAN-DEC,52000092,5200057
+340,FISH,Estuarine Resident,Fourspine stickleback,Apeltes quadracus, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,MAR-MAY,-,-,-,JAN-DEC,52000092,5200032
+341,FISH,Freshwater Fish,Golden shiner,Notemigonus crysoleucas, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,JUN-AUG,-,-,-,JAN-DEC,52000092,5200078
+342,FISH,Estuarine Nursery Fish,Hogchoker,Trinectes maculatus, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,-,JAN-DEC,NOV-APR,52000092,5200083
+343,FISH,Estuarine Resident,Killifish,Fundulus spp., , ,0,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,JUN-AUG,-,-,-,JAN-DEC,52000092,5200076
+344,FISH,Freshwater Fish,Largemouth bass,Micropterus salmoides, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,MAY-JUN,MAY-JUN,MAY-JUN,-,JAN-DEC,52000092,5200062
+345,FISH,Freshwater Fish,Pumpkinseed,Lepomis gibbosus, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,JUN-AUG,-,-,-,JAN-DEC,52000092,5200075
+346,FISH,Freshwater Fish,Smallmouth bass,Micropterus dolomieu, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,MAY-JUN,MAY-JUN,MAY-JUN,JAN-DEC,JAN-DEC,52000092,5200065
+347,FISH,Freshwater Fish,Spottail shiner,Notropis hudsonius, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,JUN-AUG,-,-,-,JAN-DEC,52000092,5200059
+348,FISH,Freshwater Fish,Tessellated darter,Etheostoma olmstedi, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,JUN-AUG,-,-,-,JAN-DEC,52000092,5200089
+349,FISH,Estuarine Resident,Threespine stickleback,Gasterosteus aculeatus, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,MAR-MAY,-,-,-,JAN-DEC,52000092,5200031
+350,FISH,Freshwater Fish,Walleye,Stizostedion vitreum vitreum, , ,0,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,APR-MAY,-,-,-,JAN-DEC,52000092,5200070
+351,FISH,Freshwater Fish,White catfish,Ameiurus catus, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,-,-,JAN-DEC,52000092,5200085
+352,FISH,Estuarine Nursery Fish,White perch,Morone americana, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,MAY-JUL,JAN-DEC,JAN-DEC,52000092,5200054
+353,FISH,Freshwater Fish,Yellow perch,Perca flavescens, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,JUN-AUG,-,-,-,JAN-DEC,52000092,5200055
+354,FISH,Diadromous Fish,Alewife,Alosa pseudoharengus, ,G5,200412,-, , ,X,X,X,X,X,X,X,X,X,X,Mar-Dec,APR-JUN,APR-JUN,APR-JUN,MAY-DEC,MAR-JUL,52000093,5200024
+355,FISH,Diadromous Fish,American eel,Anguilla rostrata, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,-,JAN-DEC,-,52000093,5200034
+356,FISH,Diadromous Fish,American shad,Alosa sapidissima, ,G5,200412,-, , ,X,X,X,X,X,X,X,X,X,X,Mar-Dec,APR-JUN,APR-JUN,APR-JUN,MAY-DEC,MAR-JUL,52000093,5200029
+357,FISH,Diadromous Fish,Atlantic sturgeon,Acipenser oxyrinchus,Federal Species of Special Concern,G3,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,MAY-JUL,MAY-JUL,MAY-AUG,JAN-DEC,APR-OCT,52000093,5200042
+358,FISH,Marine Benthic Fish,Atlantic tomcod,Microgadus tomcod, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,MAR-MAY,-,JAN-DEC,52000093,5200037
+359,FISH,Diadromous Fish,Blueback herring,Alosa aestivalis, ,G5,200412,-, , ,X,X,X,X,X,X,X,X,X,X,Mar-Dec,APR-JUN,APR-JUN,APR-JUN,MAY-DEC,MAR-JUL,52000093,5200027
+360,FISH,Freshwater Fish,Bluegill,Lepomis macrochirus, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,JUN-JUL,JUN-JUL,JUN-JUL,JUN-JUL,JAN-DEC,52000093,5200068
+361,FISH,Freshwater Fish,Brown bullhead,Ameiurus nebulosus, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,JUN-AUG,-,-,-,JAN-DEC,52000093,5200073
+362,FISH,Freshwater Fish,Channel catfish,Ictalurus punctatus, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,-,-,JAN-DEC,52000093,5200072
+363,FISH,Freshwater Fish,Common carp,Cyprinus carpio, , ,0,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,MAY-JUL,MAY-JUL,MAY-JUL,JUN-AUG,JAN-DEC,52000093,5200057
+364,FISH,Estuarine Resident,Fourspine stickleback,Apeltes quadracus, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,MAR-MAY,-,-,-,JAN-DEC,52000093,5200032
+365,FISH,Freshwater Fish,Golden shiner,Notemigonus crysoleucas, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,JUN-AUG,-,-,-,JAN-DEC,52000093,5200078
+366,FISH,Estuarine Nursery Fish,Hogchoker,Trinectes maculatus, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,-,JAN-DEC,NOV-APR,52000093,5200083
+367,FISH,Estuarine Resident,Killifish,Fundulus spp., , ,0,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,JUN-AUG,-,-,-,JAN-DEC,52000093,5200076
+368,FISH,Freshwater Fish,Largemouth bass,Micropterus salmoides, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,MAY-JUN,MAY-JUN,MAY-JUN,-,JAN-DEC,52000093,5200062
+369,FISH,Freshwater Fish,Pumpkinseed,Lepomis gibbosus, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,JUN-AUG,-,-,-,JAN-DEC,52000093,5200075
+370,FISH,Freshwater Fish,Rainbow smelt,Osmerus mordax, ,G5,200412,RARE,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,APR-JUN,APR-JUN,JAN-DEC,OCT-APR,52000093,5200021
+371,FISH,Diadromous Fish,Shortnose sturgeon,Acipenser brevirostrum,State/Federal Endangered List,G3,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,MAY-AUG,MAY-AUG,JAN-DEC,52000093,5200039
+372,FISH,Freshwater Fish,Smallmouth bass,Micropterus dolomieu, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,MAY-JUN,MAY-JUN,MAY-JUN,JAN-DEC,JAN-DEC,52000093,5200065
+373,FISH,Freshwater Fish,Spottail shiner,Notropis hudsonius, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,JUN-AUG,-,-,-,JAN-DEC,52000093,5200059
+374,FISH,Diadromous Fish,Striped bass,Morone saxatilis, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,APR-JUN,APR-JUN,APR-JUN,JAN-DEC,MAR-NOV,52000093,5200045
+375,FISH,Freshwater Fish,Tessellated darter,Etheostoma olmstedi, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,JUN-AUG,-,-,-,JAN-DEC,52000093,5200089
+376,FISH,Estuarine Resident,Threespine stickleback,Gasterosteus aculeatus, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,MAR-MAY,-,-,-,JAN-DEC,52000093,5200031
+377,FISH,Freshwater Fish,Walleye,Stizostedion vitreum vitreum, , ,0,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,APR-MAY,-,-,-,JAN-DEC,52000093,5200070
+378,FISH,Freshwater Fish,White catfish,Ameiurus catus, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,-,-,JAN-DEC,52000093,5200085
+379,FISH,Estuarine Nursery Fish,White perch,Morone americana, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,MAY-JUL,JAN-DEC,JAN-DEC,52000093,5200054
+380,FISH,Freshwater Fish,Yellow perch,Perca flavescens, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,JUN-AUG,-,-,-,JAN-DEC,52000093,5200055
+381,FISH,Diadromous Fish,Alewife,Alosa pseudoharengus, ,G5,200412,-, , ,X,X,X,X,X,X,X,X,X,X,Mar-Dec,APR-JUN,APR-JUN,APR-JUN,MAY-DEC,MAR-JUL,52000094,5200024
+382,FISH,Diadromous Fish,American eel,Anguilla rostrata, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,-,JAN-DEC,-,52000094,5200034
+383,FISH,Diadromous Fish,American shad,Alosa sapidissima, ,G5,200412,-, , ,X,X,X,X,X,X,X,X,X,X,Mar-Dec,APR-JUN,APR-JUN,APR-JUN,MAY-DEC,MAR-JUL,52000094,5200029
+384,FISH,Diadromous Fish,Atlantic sturgeon,Acipenser oxyrinchus,Federal Species of Special Concern,G3,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,MAY-JUL,MAY-JUL,MAY-AUG,JAN-DEC,APR-OCT,52000094,5200042
+385,FISH,Marine Benthic Fish,Atlantic tomcod,Microgadus tomcod, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,MAR-MAY,-,JAN-DEC,52000094,5200037
+386,FISH,Diadromous Fish,Blueback herring,Alosa aestivalis, ,G5,200412,-, , ,X,X,X,X,X,X,X,X,X,X,Mar-Dec,APR-JUN,APR-JUN,APR-JUN,MAY-DEC,MAR-JUL,52000094,5200027
+387,FISH,Freshwater Fish,Bluegill,Lepomis macrochirus, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,JUN-JUL,JUN-JUL,JUN-JUL,JUN-JUL,JAN-DEC,52000094,5200068
+388,FISH,Freshwater Fish,Brown bullhead,Ameiurus nebulosus, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,JUN-AUG,-,-,-,JAN-DEC,52000094,5200073
+389,FISH,Freshwater Fish,Channel catfish,Ictalurus punctatus, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,-,-,JAN-DEC,52000094,5200072
+390,FISH,Freshwater Fish,Common carp,Cyprinus carpio, , ,0,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,MAY-JUL,MAY-JUL,MAY-JUL,JUN-AUG,JAN-DEC,52000094,5200057
+391,FISH,Estuarine Resident,Fourspine stickleback,Apeltes quadracus, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,MAR-MAY,-,-,-,JAN-DEC,52000094,5200032
+392,FISH,Freshwater Fish,Golden shiner,Notemigonus crysoleucas, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,JUN-AUG,-,-,-,JAN-DEC,52000094,5200078
+393,FISH,Estuarine Nursery Fish,Hogchoker,Trinectes maculatus, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,-,JAN-DEC,NOV-APR,52000094,5200083
+394,FISH,Estuarine Resident,Killifish,Fundulus spp., , ,0,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,JUN-AUG,-,-,-,JAN-DEC,52000094,5200076
+395,FISH,Freshwater Fish,Largemouth bass,Micropterus salmoides, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,MAY-JUN,MAY-JUN,MAY-JUN,-,JAN-DEC,52000094,5200062
+396,FISH,Freshwater Fish,Largemouth bass,Micropterus salmoides, ,G5,200412,HIGH,X,X,X, , , , , , ,X,X,X,Oct-Mar,-,-,-,-,OCT-MAR,52000094,5200064
+397,FISH,Freshwater Fish,Pumpkinseed,Lepomis gibbosus, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,JUN-AUG,-,-,-,JAN-DEC,52000094,5200075
+398,FISH,Freshwater Fish,Rainbow smelt,Osmerus mordax, ,G5,200412,RARE,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,APR-JUN,APR-JUN,JAN-DEC,OCT-APR,52000094,5200021
+399,FISH,Diadromous Fish,Shortnose sturgeon,Acipenser brevirostrum,State/Federal Endangered List,G3,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,MAY-AUG,MAY-AUG,JAN-DEC,52000094,5200039
+400,FISH,Freshwater Fish,Smallmouth bass,Micropterus dolomieu, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,MAY-JUN,MAY-JUN,MAY-JUN,JAN-DEC,JAN-DEC,52000094,5200065
+401,FISH,Freshwater Fish,Smallmouth bass,Micropterus dolomieu, ,G5,200412,HIGH,X,X,X, , , , , , ,X,X,X,Oct-Mar,-,-,-,-,OCT-MAR,52000094,5200067
+402,FISH,Freshwater Fish,Spottail shiner,Notropis hudsonius, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,JUN-AUG,-,-,-,JAN-DEC,52000094,5200059
+403,FISH,Diadromous Fish,Striped bass,Morone saxatilis, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,APR-JUN,APR-JUN,APR-JUN,JAN-DEC,MAR-NOV,52000094,5200045
+404,FISH,Freshwater Fish,Tessellated darter,Etheostoma olmstedi, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,JUN-AUG,-,-,-,JAN-DEC,52000094,5200089
+405,FISH,Estuarine Resident,Threespine stickleback,Gasterosteus aculeatus, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,MAR-MAY,-,-,-,JAN-DEC,52000094,5200031
+406,FISH,Freshwater Fish,Walleye,Stizostedion vitreum vitreum, , ,0,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,APR-MAY,-,-,-,JAN-DEC,52000094,5200070
+407,FISH,Freshwater Fish,White catfish,Ameiurus catus, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,-,-,JAN-DEC,52000094,5200085
+408,FISH,Estuarine Nursery Fish,White perch,Morone americana, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,MAY-JUL,JAN-DEC,JAN-DEC,52000094,5200054
+409,FISH,Freshwater Fish,Yellow perch,Perca flavescens, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,JUN-AUG,-,-,-,JAN-DEC,52000094,5200055
+410,FISH,Diadromous Fish,Alewife,Alosa pseudoharengus, ,G5,200412,-, , ,X,X,X,X,X,X,X,X,X,X,Mar-Dec,APR-JUN,APR-JUN,APR-JUN,MAY-DEC,MAR-JUL,52000095,5200024
+411,FISH,Freshwater Fish,American brook lamprey,Lampetra appendix, ,G4,200507,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,JAN-DEC,-,-,52000095,5200090
+412,FISH,Diadromous Fish,American eel,Anguilla rostrata, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,-,JAN-DEC,-,52000095,5200034
+413,FISH,Diadromous Fish,American shad,Alosa sapidissima, ,G5,200412,-, , ,X,X,X,X,X,X,X,X,X,X,Mar-Dec,APR-JUN,APR-JUN,APR-JUN,MAY-DEC,MAR-JUL,52000095,5200029
+414,FISH,Diadromous Fish,Atlantic sturgeon,Acipenser oxyrinchus,Federal Species of Special Concern,G3,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,MAY-JUL,MAY-JUL,MAY-AUG,JAN-DEC,APR-OCT,52000095,5200042
+415,FISH,Marine Benthic Fish,Atlantic tomcod,Microgadus tomcod, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,MAR-MAY,-,JAN-DEC,52000095,5200037
+416,FISH,Diadromous Fish,Blueback herring,Alosa aestivalis, ,G5,200412,-, , ,X,X,X,X,X,X,X,X,X,X,Mar-Dec,APR-JUN,APR-JUN,APR-JUN,MAY-DEC,MAR-JUL,52000095,5200027
+417,FISH,Freshwater Fish,Bluegill,Lepomis macrochirus, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,JUN-JUL,JUN-JUL,JUN-JUL,JUN-JUL,JAN-DEC,52000095,5200068
+418,FISH,Freshwater Fish,Bridle shiner,Notropis bifrenatus, ,G3,200705,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,JUN-AUG,-,-,-,JAN-DEC,52000095,5200091
+419,FISH,Freshwater Fish,Brown bullhead,Ameiurus nebulosus, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,JUN-AUG,-,-,-,JAN-DEC,52000095,5200073
+420,FISH,Freshwater Fish,Central mudminnow,Umbra limi, ,G5,200507,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,JUN-AUG,-,-,-,JAN-DEC,52000095,5200088
+421,FISH,Freshwater Fish,Channel catfish,Ictalurus punctatus, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,-,-,JAN-DEC,52000095,5200072
+422,FISH,Freshwater Fish,Common carp,Cyprinus carpio, , ,0,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,MAY-JUL,MAY-JUL,MAY-JUL,JUN-AUG,JAN-DEC,52000095,5200057
+423,FISH,Estuarine Resident,Fourspine stickleback,Apeltes quadracus, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,MAR-MAY,-,-,-,JAN-DEC,52000095,5200032
+424,FISH,Freshwater Fish,Golden shiner,Notemigonus crysoleucas, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,JUN-AUG,-,-,-,JAN-DEC,52000095,5200078
+425,FISH,Estuarine Nursery Fish,Hogchoker,Trinectes maculatus, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,-,JAN-DEC,NOV-APR,52000095,5200083
+426,FISH,Estuarine Resident,Killifish,Fundulus spp., , ,0,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,JUN-AUG,-,-,-,JAN-DEC,52000095,5200076
+427,FISH,Freshwater Fish,Largemouth bass,Micropterus salmoides, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,MAY-JUN,MAY-JUN,MAY-JUN,-,JAN-DEC,52000095,5200062
+428,FISH,Freshwater Fish,Northern hog sucker,Hypentelium nigricans, ,G5,200507,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,MAR-MAY,-,-,-,JAN-DEC,52000095,5200087
+429,FISH,Freshwater Fish,Pumpkinseed,Lepomis gibbosus, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,JUN-AUG,-,-,-,JAN-DEC,52000095,5200075
+430,FISH,Freshwater Fish,Rainbow smelt,Osmerus mordax, ,G5,200412,RARE,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,APR-JUN,APR-JUN,JAN-DEC,OCT-APR,52000095,5200021
+431,FISH,Diadromous Fish,Shortnose sturgeon,Acipenser brevirostrum,State/Federal Endangered List,G3,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,MAY-AUG,MAY-AUG,JAN-DEC,52000095,5200039
+432,FISH,Freshwater Fish,Smallmouth bass,Micropterus dolomieu, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,MAY-JUN,MAY-JUN,MAY-JUN,JAN-DEC,JAN-DEC,52000095,5200065
+433,FISH,Freshwater Fish,Spottail shiner,Notropis hudsonius, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,JUN-AUG,-,-,-,JAN-DEC,52000095,5200059
+434,FISH,Diadromous Fish,Striped bass,Morone saxatilis, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,APR-JUN,APR-JUN,APR-JUN,JAN-DEC,MAR-NOV,52000095,5200045
+435,FISH,Freshwater Fish,Tessellated darter,Etheostoma olmstedi, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,JUN-AUG,-,-,-,JAN-DEC,52000095,5200089
+436,FISH,Estuarine Resident,Threespine stickleback,Gasterosteus aculeatus, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,MAR-MAY,-,-,-,JAN-DEC,52000095,5200031
+437,FISH,Freshwater Fish,Walleye,Stizostedion vitreum vitreum, , ,0,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,APR-MAY,-,-,-,JAN-DEC,52000095,5200070
+438,FISH,Freshwater Fish,White catfish,Ameiurus catus, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,-,-,JAN-DEC,52000095,5200085
+439,FISH,Estuarine Nursery Fish,White perch,Morone americana, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,MAY-JUL,JAN-DEC,JAN-DEC,52000095,5200054
+440,FISH,Freshwater Fish,Yellow perch,Perca flavescens, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,JUN-AUG,-,-,-,JAN-DEC,52000095,5200055
+441,FISH,Freshwater Fish,American brook lamprey,Lampetra appendix, ,G4,200507,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,JAN-DEC,-,-,52000096,5200090
+442,FISH,Diadromous Fish,American eel,Anguilla rostrata, ,G5,200412,1000State,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,-,JAN-DEC,-,52000096,5200034
+443,FISH,Marine Benthic Fish,Atlantic tomcod,Microgadus tomcod, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,MAR-MAY,-,JAN-DEC,52000096,5200037
+444,FISH,Freshwater Fish,Bluegill,Lepomis macrochirus, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,JUN-JUL,JUN-JUL,JUN-JUL,JUN-JUL,JAN-DEC,52000096,5200068
+445,FISH,Freshwater Fish,Bridle shiner,Notropis bifrenatus, ,G3,200705,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,JUN-AUG,-,-,-,JAN-DEC,52000096,5200091
+446,FISH,Freshwater Fish,Brown bullhead,Ameiurus nebulosus, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,JUN-AUG,-,-,-,JAN-DEC,52000096,5200073
+447,FISH,Freshwater Fish,Central mudminnow,Umbra limi, ,G5,200507,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,JUN-AUG,-,-,-,JAN-DEC,52000096,5200088
+448,FISH,Freshwater Fish,Channel catfish,Ictalurus punctatus, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,-,-,JAN-DEC,52000096,5200072
+449,FISH,Freshwater Fish,Common carp,Cyprinus carpio, , ,0,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,MAY-JUL,MAY-JUL,MAY-JUL,JUN-AUG,JAN-DEC,52000096,5200057
+450,FISH,Estuarine Resident,Fourspine stickleback,Apeltes quadracus, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,MAR-MAY,-,-,-,JAN-DEC,52000096,5200032
+451,FISH,Freshwater Fish,Golden shiner,Notemigonus crysoleucas, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,JUN-AUG,-,-,-,JAN-DEC,52000096,5200078
+452,FISH,Estuarine Nursery Fish,Hogchoker,Trinectes maculatus, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,-,JAN-DEC,NOV-APR,52000096,5200083
+453,FISH,Estuarine Resident,Killifish,Fundulus spp., , ,0,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,JUN-AUG,-,-,-,JAN-DEC,52000096,5200076
+454,FISH,Freshwater Fish,Largemouth bass,Micropterus salmoides, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,MAY-JUN,MAY-JUN,MAY-JUN,-,JAN-DEC,52000096,5200062
+455,FISH,Freshwater Fish,Northern hog sucker,Hypentelium nigricans, ,G5,200507,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,MAR-MAY,-,-,-,JAN-DEC,52000096,5200087
+456,FISH,Freshwater Fish,Pumpkinseed,Lepomis gibbosus, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,JUN-AUG,-,-,-,JAN-DEC,52000096,5200075
+457,FISH,Freshwater Fish,Rainbow smelt,Osmerus mordax, ,G5,200412,RARE,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,APR-JUN,APR-JUN,JAN-DEC,OCT-APR,52000096,5200021
+458,FISH,Freshwater Fish,Smallmouth bass,Micropterus dolomieu, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,MAY-JUN,MAY-JUN,MAY-JUN,JAN-DEC,JAN-DEC,52000096,5200065
+459,FISH,Freshwater Fish,Spottail shiner,Notropis hudsonius, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,JUN-AUG,-,-,-,JAN-DEC,52000096,5200059
+460,FISH,Freshwater Fish,Tessellated darter,Etheostoma olmstedi, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,JUN-AUG,-,-,-,JAN-DEC,52000096,5200089
+461,FISH,Estuarine Resident,Threespine stickleback,Gasterosteus aculeatus, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,MAR-MAY,-,-,-,JAN-DEC,52000096,5200031
+462,FISH,Freshwater Fish,Walleye,Stizostedion vitreum vitreum, , ,0,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,APR-MAY,-,-,-,JAN-DEC,52000096,5200070
+463,FISH,Freshwater Fish,White catfish,Ameiurus catus, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,-,-,JAN-DEC,52000096,5200085
+464,FISH,Estuarine Nursery Fish,White perch,Morone americana, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,MAY-JUL,JAN-DEC,JAN-DEC,52000096,5200054
+465,FISH,Freshwater Fish,Yellow perch,Perca flavescens, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,JUN-AUG,-,-,-,JAN-DEC,52000096,5200055
+466,FISH,Diadromous Fish,American eel,Anguilla rostrata, ,G5,200412,1000State,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,-,JAN-DEC,-,52000097,5200034
+467,FISH,Marine Benthic Fish,Atlantic tomcod,Microgadus tomcod, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,MAR-MAY,-,JAN-DEC,52000097,5200037
+468,FISH,Freshwater Fish,Bluegill,Lepomis macrochirus, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,JUN-JUL,JUN-JUL,JUN-JUL,JUN-JUL,JAN-DEC,52000097,5200068
+469,FISH,Freshwater Fish,Brown bullhead,Ameiurus nebulosus, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,JUN-AUG,-,-,-,JAN-DEC,52000097,5200073
+470,FISH,Freshwater Fish,Channel catfish,Ictalurus punctatus, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,-,-,JAN-DEC,52000097,5200072
+471,FISH,Freshwater Fish,Common carp,Cyprinus carpio, , ,0,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,MAY-JUL,MAY-JUL,MAY-JUL,JUN-AUG,JAN-DEC,52000097,5200057
+472,FISH,Estuarine Resident,Fourspine stickleback,Apeltes quadracus, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,MAR-MAY,-,-,-,JAN-DEC,52000097,5200032
+473,FISH,Freshwater Fish,Golden shiner,Notemigonus crysoleucas, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,JUN-AUG,-,-,-,JAN-DEC,52000097,5200078
+474,FISH,Estuarine Nursery Fish,Hogchoker,Trinectes maculatus, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,-,JAN-DEC,NOV-APR,52000097,5200083
+475,FISH,Estuarine Resident,Killifish,Fundulus spp., , ,0,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,JUN-AUG,-,-,-,JAN-DEC,52000097,5200076
+476,FISH,Freshwater Fish,Largemouth bass,Micropterus salmoides, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,MAY-JUN,MAY-JUN,MAY-JUN,-,JAN-DEC,52000097,5200062
+477,FISH,Freshwater Fish,Pumpkinseed,Lepomis gibbosus, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,JUN-AUG,-,-,-,JAN-DEC,52000097,5200075
+478,FISH,Freshwater Fish,Rainbow smelt,Osmerus mordax, ,G5,200412,RARE,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,APR-JUN,APR-JUN,JAN-DEC,OCT-APR,52000097,5200021
+479,FISH,Freshwater Fish,Smallmouth bass,Micropterus dolomieu, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,MAY-JUN,MAY-JUN,MAY-JUN,JAN-DEC,JAN-DEC,52000097,5200065
+480,FISH,Freshwater Fish,Spottail shiner,Notropis hudsonius, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,JUN-AUG,-,-,-,JAN-DEC,52000097,5200059
+481,FISH,Freshwater Fish,Tessellated darter,Etheostoma olmstedi, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,JUN-AUG,-,-,-,JAN-DEC,52000097,5200089
+482,FISH,Estuarine Resident,Threespine stickleback,Gasterosteus aculeatus, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,MAR-MAY,-,-,-,JAN-DEC,52000097,5200031
+483,FISH,Freshwater Fish,Walleye,Stizostedion vitreum vitreum, , ,0,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,APR-MAY,-,-,-,JAN-DEC,52000097,5200070
+484,FISH,Freshwater Fish,White catfish,Ameiurus catus, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,-,-,JAN-DEC,52000097,5200085
+485,FISH,Estuarine Nursery Fish,White perch,Morone americana, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,MAY-JUL,JAN-DEC,JAN-DEC,52000097,5200054
+486,FISH,Freshwater Fish,Yellow perch,Perca flavescens, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,JUN-AUG,-,-,-,JAN-DEC,52000097,5200055
+487,FISH,Diadromous Fish,Alewife,Alosa pseudoharengus, ,G5,200412,-, , ,X,X,X,X,X,X,X,X,X,X,Mar-Dec,APR-JUN,-,-,MAY-DEC,MAR-JUL,52000098,5200023
+488,FISH,Diadromous Fish,American eel,Anguilla rostrata, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,-,JAN-DEC,-,52000098,5200034
+489,FISH,Diadromous Fish,American shad,Alosa sapidissima, ,G5,200412,-, , ,X,X,X,X,X,X,X,X,X,X,Mar-Dec,-,-,-,MAY-DEC,MAR-JUL,52000098,5200028
+490,FISH,Diadromous Fish,Atlantic sturgeon,Acipenser oxyrinchus,Federal Species of Special Concern,G3,200412,-, , , ,X,X,X,X,X,X,X, , ,Apr-Oct,MAY-JUL,MAY-JUL,MAY-AUG,-,APR-OCT,52000098,5200044
+491,FISH,Marine Benthic Fish,Atlantic tomcod,Microgadus tomcod, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,MAR-MAY,-,JAN-DEC,52000098,5200037
+492,FISH,Diadromous Fish,Blueback herring,Alosa aestivalis, ,G5,200412,-, , ,X,X,X,X,X,X,X,X,X,X,Mar-Dec,APR-JUN,-,-,MAY-DEC,MAR-JUL,52000098,5200026
+493,FISH,Freshwater Fish,Bluegill,Lepomis macrochirus, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,JUN-JUL,JUN-JUL,JUN-JUL,JUN-JUL,JAN-DEC,52000098,5200068
+494,FISH,Freshwater Fish,Brown bullhead,Ameiurus nebulosus, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,JUN-AUG,-,-,-,JAN-DEC,52000098,5200073
+495,FISH,Freshwater Fish,Channel catfish,Ictalurus punctatus, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,-,-,JAN-DEC,52000098,5200072
+496,FISH,Freshwater Fish,Common carp,Cyprinus carpio, , ,0,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,MAY-JUL,MAY-JUL,MAY-JUL,JUN-AUG,JAN-DEC,52000098,5200057
+497,FISH,Estuarine Resident,Fourspine stickleback,Apeltes quadracus, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,MAR-MAY,-,-,-,JAN-DEC,52000098,5200032
+498,FISH,Freshwater Fish,Golden shiner,Notemigonus crysoleucas, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,JUN-AUG,-,-,-,JAN-DEC,52000098,5200078
+499,FISH,Estuarine Nursery Fish,Hogchoker,Trinectes maculatus, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,-,JAN-DEC,NOV-APR,52000098,5200083
+500,FISH,Estuarine Resident,Killifish,Fundulus spp., , ,0,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,JUN-AUG,-,-,-,JAN-DEC,52000098,5200076
+501,FISH,Freshwater Fish,Largemouth bass,Micropterus salmoides, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,MAY-JUN,MAY-JUN,MAY-JUN,-,JAN-DEC,52000098,5200062
+502,FISH,Freshwater Fish,Pumpkinseed,Lepomis gibbosus, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,JUN-AUG,-,-,-,JAN-DEC,52000098,5200075
+503,FISH,Freshwater Fish,Rainbow smelt,Osmerus mordax, ,G5,200412,RARE,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,APR-JUN,JAN-DEC,OCT-APR,52000098,5200020
+504,FISH,Diadromous Fish,Shortnose sturgeon,Acipenser brevirostrum,State/Federal Endangered List,G3,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,MAY-AUG,MAY-AUG,JAN-DEC,52000098,5200039
+505,FISH,Freshwater Fish,Smallmouth bass,Micropterus dolomieu, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,MAY-JUN,MAY-JUN,MAY-JUN,JAN-DEC,JAN-DEC,52000098,5200065
+506,FISH,Freshwater Fish,Spottail shiner,Notropis hudsonius, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,JUN-AUG,-,-,-,JAN-DEC,52000098,5200059
+507,FISH,Diadromous Fish,Striped bass,Morone saxatilis, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,APR-JUN,APR-JUN,APR-JUN,JAN-DEC,MAR-NOV,52000098,5200045
+508,FISH,Estuarine Resident,Threespine stickleback,Gasterosteus aculeatus, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,MAR-MAY,-,-,-,JAN-DEC,52000098,5200031
+509,FISH,Freshwater Fish,Walleye,Stizostedion vitreum vitreum, , ,0,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,APR-MAY,-,-,-,JAN-DEC,52000098,5200070
+510,FISH,Freshwater Fish,White catfish,Ameiurus catus, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,-,-,JAN-DEC,52000098,5200085
+511,FISH,Estuarine Nursery Fish,White perch,Morone americana, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,MAY-JUL,JAN-DEC,JAN-DEC,52000098,5200054
+512,FISH,Freshwater Fish,Yellow perch,Perca flavescens, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,JUN-AUG,-,-,-,JAN-DEC,52000098,5200055
+513,FISH,Diadromous Fish,Alewife,Alosa pseudoharengus, ,G5,200412,-, , ,X,X,X,X,X,X,X,X,X,X,Mar-Dec,APR-JUN,-,-,MAY-DEC,MAR-JUL,52000099,5200023
+514,FISH,Diadromous Fish,American eel,Anguilla rostrata, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,-,JAN-DEC,-,52000099,5200034
+515,FISH,Diadromous Fish,American shad,Alosa sapidissima, ,G5,200412,-, , ,X,X,X,X,X,X,X,X,X,X,Mar-Dec,-,-,-,MAY-DEC,MAR-JUL,52000099,5200028
+516,FISH,Diadromous Fish,Atlantic sturgeon,Acipenser oxyrinchus,Federal Species of Special Concern,G3,200412,-, , , ,X,X,X,X,X,X,X, , ,Apr-Oct,MAY-JUL,MAY-JUL,MAY-AUG,-,APR-OCT,52000099,5200044
+517,FISH,Marine Benthic Fish,Atlantic tomcod,Microgadus tomcod, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,JAN-APR,MAY-AUG,JAN-DEC,52000099,5200035
+518,FISH,Diadromous Fish,Blueback herring,Alosa aestivalis, ,G5,200412,-, , ,X,X,X,X,X,X,X,X,X,X,Mar-Dec,APR-JUN,-,-,MAY-DEC,MAR-JUL,52000099,5200026
+519,FISH,Freshwater Fish,Bluegill,Lepomis macrochirus, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,JUN-JUL,JUN-JUL,JUN-JUL,JUN-JUL,JAN-DEC,52000099,5200068
+520,FISH,Freshwater Fish,Brown bullhead,Ameiurus nebulosus, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,JUN-AUG,-,-,-,JAN-DEC,52000099,5200073
+521,FISH,Freshwater Fish,Channel catfish,Ictalurus punctatus, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,-,-,JAN-DEC,52000099,5200072
+522,FISH,Freshwater Fish,Common carp,Cyprinus carpio, , ,0,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,MAY-JUL,MAY-JUL,MAY-JUL,JUN-AUG,JAN-DEC,52000099,5200057
+523,FISH,Estuarine Resident,Fourspine stickleback,Apeltes quadracus, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,MAR-MAY,-,-,-,JAN-DEC,52000099,5200032
+524,FISH,Marine Benthic Fish,Gobies, , , ,0,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,-,-,JAN-DEC,52000099,5200092
+525,FISH,Freshwater Fish,Golden shiner,Notemigonus crysoleucas, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,JUN-AUG,-,-,-,JAN-DEC,52000099,5200078
+526,FISH,Estuarine Nursery Fish,Hogchoker,Trinectes maculatus, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,MAY-OCT,JAN-DEC,NOV-APR,52000099,5200082
+527,FISH,Estuarine Resident,Killifish,Fundulus spp., , ,0,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,JUN-AUG,-,-,-,JAN-DEC,52000099,5200076
+528,FISH,Freshwater Fish,Largemouth bass,Micropterus salmoides, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,MAY-JUN,MAY-JUN,MAY-JUN,-,JAN-DEC,52000099,5200062
+529,FISH,Freshwater Fish,Pumpkinseed,Lepomis gibbosus, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,JUN-AUG,-,-,-,JAN-DEC,52000099,5200075
+530,FISH,Freshwater Fish,Rainbow smelt,Osmerus mordax, ,G5,200412,RARE,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,-,JAN-DEC,OCT-APR,52000099,5200019
+531,FISH,Diadromous Fish,Shortnose sturgeon,Acipenser brevirostrum,State/Federal Endangered List,G3,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,MAY-AUG,MAY-AUG,JAN-DEC,52000099,5200039
+532,FISH,Estuarine Resident,Silversides, , , ,0,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,-,-,JAN-DEC,52000099,5200077
+533,FISH,Freshwater Fish,Smallmouth bass,Micropterus dolomieu, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,MAY-JUN,MAY-JUN,MAY-JUN,JAN-DEC,JAN-DEC,52000099,5200065
+534,FISH,Freshwater Fish,Spottail shiner,Notropis hudsonius, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,JUN-AUG,-,-,-,JAN-DEC,52000099,5200059
+535,FISH,Diadromous Fish,Striped bass,Morone saxatilis, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,APR-JUN,APR-JUN,APR-JUN,JAN-DEC,MAR-NOV,52000099,5200045
+536,FISH,Estuarine Resident,Threespine stickleback,Gasterosteus aculeatus, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,MAR-MAY,-,-,-,JAN-DEC,52000099,5200031
+537,FISH,Freshwater Fish,Walleye,Stizostedion vitreum vitreum, , ,0,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,APR-MAY,-,-,-,JAN-DEC,52000099,5200070
+538,FISH,Freshwater Fish,White catfish,Ameiurus catus, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,-,-,JAN-DEC,52000099,5200085
+539,FISH,Estuarine Nursery Fish,White perch,Morone americana, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,MAY-JUL,MAY-JUL,MAY-JUL,JAN-DEC,JAN-DEC,52000099,5200053
+540,FISH,Freshwater Fish,Yellow perch,Perca flavescens, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,JUN-AUG,-,-,-,JAN-DEC,52000099,5200055
+541,FISH,Diadromous Fish,Alewife,Alosa pseudoharengus, ,G5,200412,-, , ,X,X,X,X,X,X,X,X,X,X,Mar-Dec,APR-JUN,-,-,MAY-DEC,MAR-JUL,52000100,5200023
+542,FISH,Diadromous Fish,American eel,Anguilla rostrata, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,-,JAN-DEC,-,52000100,5200034
+543,FISH,Diadromous Fish,American shad,Alosa sapidissima, ,G5,200412,-, , ,X,X,X,X,X,X,X,X,X,X,Mar-Dec,-,-,-,MAY-DEC,MAR-JUL,52000100,5200028
+544,FISH,Diadromous Fish,Atlantic sturgeon,Acipenser oxyrinchus,Federal Species of Special Concern,G3,200412,-, , , ,X,X,X,X,X,X,X, , ,Apr-Oct,MAY-JUL,MAY-JUL,MAY-AUG,-,APR-OCT,52000100,5200044
+545,FISH,Marine Benthic Fish,Atlantic tomcod,Microgadus tomcod, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,JAN-APR,MAY-AUG,JAN-DEC,52000100,5200035
+546,FISH,Diadromous Fish,Blueback herring,Alosa aestivalis, ,G5,200412,-, , ,X,X,X,X,X,X,X,X,X,X,Mar-Dec,APR-JUN,-,-,MAY-DEC,MAR-JUL,52000100,5200026
+547,FISH,Estuarine Resident,Fourspine stickleback,Apeltes quadracus, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,MAR-MAY,-,-,-,JAN-DEC,52000100,5200032
+548,FISH,Marine Benthic Fish,Gobies, , , ,0,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,-,-,JAN-DEC,52000100,5200092
+549,FISH,Estuarine Nursery Fish,Hogchoker,Trinectes maculatus, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,MAY-OCT,JAN-DEC,NOV-APR,52000100,5200082
+550,FISH,Estuarine Resident,Killifish,Fundulus spp., , ,0,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,JUN-AUG,-,-,-,JAN-DEC,52000100,5200076
+551,FISH,Freshwater Fish,Largemouth bass,Micropterus salmoides, ,G5,200412,HIGH,X,X,X, , , , , , ,X,X,X,Oct-Mar,-,-,-,-,OCT-MAR,52000100,5200064
+552,FISH,Freshwater Fish,Rainbow smelt,Osmerus mordax, ,G5,200412,RARE,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,-,JAN-DEC,OCT-APR,52000100,5200019
+553,FISH,Diadromous Fish,Shortnose sturgeon,Acipenser brevirostrum,State/Federal Endangered List,G3,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,MAY-AUG,MAY-AUG,JAN-DEC,52000100,5200039
+554,FISH,Estuarine Resident,Silversides, , , ,0,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,-,-,JAN-DEC,52000100,5200077
+555,FISH,Freshwater Fish,Smallmouth bass,Micropterus dolomieu, ,G5,200412,HIGH,X,X,X, , , , , , ,X,X,X,Oct-Mar,-,-,-,-,OCT-MAR,52000100,5200067
+556,FISH,Diadromous Fish,Striped bass,Morone saxatilis, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,APR-JUN,APR-JUN,APR-JUN,JAN-DEC,MAR-NOV,52000100,5200045
+557,FISH,Estuarine Resident,Threespine stickleback,Gasterosteus aculeatus, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,MAR-MAY,-,-,-,JAN-DEC,52000100,5200031
+558,FISH,Estuarine Nursery Fish,White perch,Morone americana, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,MAY-JUL,MAY-JUL,MAY-JUL,JAN-DEC,JAN-DEC,52000100,5200053
+559,FISH,Diadromous Fish,Alewife,Alosa pseudoharengus, ,G5,200412,-, , ,X,X,X,X,X,X,X,X,X,X,Mar-Dec,APR-JUN,-,-,MAY-DEC,MAR-JUL,52000101,5200023
+560,FISH,Diadromous Fish,American eel,Anguilla rostrata, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,-,JAN-DEC,-,52000101,5200034
+561,FISH,Diadromous Fish,American shad,Alosa sapidissima, ,G5,200412,-, , ,X,X,X,X,X,X,X,X,X,X,Mar-Dec,-,-,-,MAY-DEC,MAR-JUL,52000101,5200028
+562,FISH,Diadromous Fish,Atlantic sturgeon,Acipenser oxyrinchus,Federal Species of Special Concern,G3,200412,-, , , ,X,X,X,X,X,X,X, , ,Apr-Oct,MAY-JUL,MAY-JUL,MAY-AUG,-,APR-OCT,52000101,5200044
+563,FISH,Marine Benthic Fish,Atlantic tomcod,Microgadus tomcod, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,JAN-APR,MAY-AUG,JAN-DEC,52000101,5200035
+564,FISH,Estuarine Nursery Fish,Bay anchovy,Anchoa mitchilli, , ,0,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,MAY-SEP,MAY-SEP,JUN-SEP,AUG-OCT,JAN-DEC,52000101,5200048
+565,FISH,Diadromous Fish,Blueback herring,Alosa aestivalis, ,G5,200412,-, , ,X,X,X,X,X,X,X,X,X,X,Mar-Dec,APR-JUN,-,-,MAY-DEC,MAR-JUL,52000101,5200026
+566,FISH,Estuarine Nursery Fish,Bluefish,Pomatomus saltatrix, , ,0,-, , , , , ,X,X,X,X,X, , ,Jun-Oct,-,-,-,JUN-OCT,-,52000101,5200018
+567,FISH,Freshwater Fish,Bluegill,Lepomis macrochirus, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,JUN-JUL,JUN-JUL,JUN-JUL,JUN-JUL,JAN-DEC,52000101,5200068
+568,FISH,Freshwater Fish,Brown bullhead,Ameiurus nebulosus, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,JUN-AUG,-,-,-,JAN-DEC,52000101,5200073
+569,FISH,Freshwater Fish,Channel catfish,Ictalurus punctatus, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,-,-,JAN-DEC,52000101,5200072
+570,FISH,Freshwater Fish,Common carp,Cyprinus carpio, , ,0,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,MAY-JUL,MAY-JUL,MAY-JUL,JUN-AUG,JAN-DEC,52000101,5200057
+571,FISH,Estuarine Resident,Fourspine stickleback,Apeltes quadracus, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,MAR-MAY,-,-,-,JAN-DEC,52000101,5200032
+572,FISH,Marine Benthic Fish,Gobies, , , ,0,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,-,-,JAN-DEC,52000101,5200092
+573,FISH,Freshwater Fish,Golden shiner,Notemigonus crysoleucas, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,JUN-AUG,-,-,-,JAN-DEC,52000101,5200078
+574,FISH,Estuarine Nursery Fish,Hogchoker,Trinectes maculatus, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,MAY-OCT,JAN-DEC,NOV-APR,52000101,5200082
+575,FISH,Estuarine Resident,Killifish,Fundulus spp., , ,0,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,JUN-AUG,-,-,-,JAN-DEC,52000101,5200076
+576,FISH,Freshwater Fish,Largemouth bass,Micropterus salmoides, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,MAY-JUN,MAY-JUN,MAY-JUN,-,JAN-DEC,52000101,5200062
+577,FISH,Freshwater Fish,Pumpkinseed,Lepomis gibbosus, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,JUN-AUG,-,-,-,JAN-DEC,52000101,5200075
+578,FISH,Freshwater Fish,Rainbow smelt,Osmerus mordax, ,G5,200412,RARE,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,-,JAN-DEC,OCT-APR,52000101,5200019
+579,FISH,Diadromous Fish,Shortnose sturgeon,Acipenser brevirostrum,State/Federal Endangered List,G3,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,MAY-AUG,MAY-AUG,JAN-DEC,52000101,5200039
+580,FISH,Estuarine Resident,Silversides, , , ,0,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,-,-,JAN-DEC,52000101,5200077
+581,FISH,Freshwater Fish,Smallmouth bass,Micropterus dolomieu, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,MAY-JUN,MAY-JUN,MAY-JUN,JAN-DEC,JAN-DEC,52000101,5200065
+582,FISH,Freshwater Fish,Spottail shiner,Notropis hudsonius, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,JUN-AUG,-,-,-,JAN-DEC,52000101,5200059
+583,FISH,Diadromous Fish,Striped bass,Morone saxatilis, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,APR-JUN,APR-JUN,APR-JUN,JAN-DEC,MAR-NOV,52000101,5200045
+584,FISH,Estuarine Resident,Threespine stickleback,Gasterosteus aculeatus, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,MAR-MAY,-,-,-,JAN-DEC,52000101,5200031
+585,FISH,Freshwater Fish,Walleye,Stizostedion vitreum vitreum, , ,0,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,APR-MAY,-,-,-,JAN-DEC,52000101,5200070
+586,FISH,Freshwater Fish,White catfish,Ameiurus catus, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,-,-,JAN-DEC,52000101,5200085
+587,FISH,Estuarine Nursery Fish,White perch,Morone americana, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,MAY-JUL,JAN-DEC,JAN-DEC,52000101,5200054
+588,FISH,Freshwater Fish,Yellow perch,Perca flavescens, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,JUN-AUG,-,-,-,JAN-DEC,52000101,5200055
+589,FISH,Marine Benthic Fish,Atlantic tomcod,Microgadus tomcod, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,JAN-APR,MAY-AUG,JAN-DEC,52000102,5200035
+590,FISH,Estuarine Nursery Fish,Bay anchovy,Anchoa mitchilli, , ,0,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,MAY-SEP,MAY-SEP,JUN-SEP,AUG-OCT,JAN-DEC,52000102,5200048
+591,FISH,Estuarine Nursery Fish,Bluefish,Pomatomus saltatrix, , ,0,-, , , , , ,X,X,X,X,X, , ,Jun-Oct,-,-,-,JUN-OCT,-,52000102,5200018
+592,FISH,Freshwater Fish,Bluegill,Lepomis macrochirus, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,-,-,JAN-DEC,52000102,5200069
+593,FISH,Freshwater Fish,Brown bullhead,Ameiurus nebulosus, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,-,-,JAN-DEC,52000102,5200074
+594,FISH,Freshwater Fish,Channel catfish,Ictalurus punctatus, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,-,-,JAN-DEC,52000102,5200072
+595,FISH,Freshwater Fish,Common carp,Cyprinus carpio, , ,0,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,-,-,JAN-DEC,52000102,5200058
+596,FISH,Estuarine Resident,Fourspine stickleback,Apeltes quadracus, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,MAR-MAY,-,-,-,JAN-DEC,52000102,5200032
+597,FISH,Marine Benthic Fish,Gobies, , , ,0,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,-,-,JAN-DEC,52000102,5200092
+598,FISH,Freshwater Fish,Golden shiner,Notemigonus crysoleucas, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,-,-,JAN-DEC,52000102,5200079
+599,FISH,Estuarine Nursery Fish,Hogchoker,Trinectes maculatus, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,MAY-OCT,JAN-DEC,NOV-APR,52000102,5200082
+600,FISH,Estuarine Resident,Killifish,Fundulus spp., , ,0,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,JUN-AUG,-,-,-,JAN-DEC,52000102,5200076
+601,FISH,Freshwater Fish,Largemouth bass,Micropterus salmoides, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,-,-,JAN-DEC,52000102,5200063
+602,FISH,Freshwater Fish,Pumpkinseed,Lepomis gibbosus, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,JUN-AUG,-,-,-,JAN-DEC,52000102,5200075
+603,FISH,Freshwater Fish,Rainbow smelt,Osmerus mordax, ,G5,200412,RARE,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,-,JAN-DEC,OCT-APR,52000102,5200019
+604,FISH,Estuarine Resident,Silversides, , , ,0,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,-,-,JAN-DEC,52000102,5200077
+605,FISH,Freshwater Fish,Smallmouth bass,Micropterus dolomieu, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,-,-,JAN-DEC,52000102,5200066
+606,FISH,Freshwater Fish,Spottail shiner,Notropis hudsonius, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,-,-,JAN-DEC,52000102,5200060
+607,FISH,Estuarine Resident,Threespine stickleback,Gasterosteus aculeatus, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,MAR-MAY,-,-,-,JAN-DEC,52000102,5200031
+608,FISH,Freshwater Fish,Walleye,Stizostedion vitreum vitreum, , ,0,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,-,-,JAN-DEC,52000102,5200071
+609,FISH,Freshwater Fish,White catfish,Ameiurus catus, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,-,-,JAN-DEC,52000102,5200085
+610,FISH,Estuarine Nursery Fish,White perch,Morone americana, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,MAY-JUL,JAN-DEC,JAN-DEC,52000102,5200054
+611,FISH,Freshwater Fish,Yellow perch,Perca flavescens, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,-,-,JAN-DEC,52000102,5200056
+612,FISH,Diadromous Fish,Alewife,Alosa pseudoharengus, ,G5,200412,-, , ,X,X,X,X,X,X,X,X,X,X,Mar-Dec,-,-,APR-JUN,MAY-DEC,MAR-JUL,52000103,5200022
+613,FISH,Diadromous Fish,American eel,Anguilla rostrata, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,-,JAN-DEC,-,52000103,5200034
+614,FISH,Diadromous Fish,American shad,Alosa sapidissima, ,G5,200412,-, , ,X,X,X,X,X,X,X,X,X,X,Mar-Dec,-,-,-,MAY-DEC,MAR-JUL,52000103,5200028
+615,FISH,Diadromous Fish,Atlantic sturgeon,Acipenser oxyrinchus,Federal Species of Special Concern,G3,200412,-, , , ,X,X,X,X,X,X,X, , ,Apr-Oct,-,-,MAY-AUG,-,APR-OCT,52000103,5200043
+616,FISH,Marine Benthic Fish,Atlantic tomcod,Microgadus tomcod, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,JAN-APR,MAY-AUG,JAN-DEC,52000103,5200035
+617,FISH,Estuarine Nursery Fish,Bay anchovy,Anchoa mitchilli, , ,0,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,MAY-SEP,MAY-SEP,JUN-SEP,AUG-OCT,JAN-DEC,52000103,5200048
+618,FISH,Diadromous Fish,Blueback herring,Alosa aestivalis, ,G5,200412,-, , ,X,X,X,X,X,X,X,X,X,X,Mar-Dec,-,-,-,MAY-DEC,MAR-JUL,52000103,5200025
+619,FISH,Estuarine Nursery Fish,Bluefish,Pomatomus saltatrix, , ,0,-, , , , , ,X,X,X,X,X, , ,Jun-Oct,-,-,-,JUN-OCT,-,52000103,5200018
+620,FISH,Freshwater Fish,Bluegill,Lepomis macrochirus, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,-,-,JAN-DEC,52000103,5200069
+621,FISH,Freshwater Fish,Brown bullhead,Ameiurus nebulosus, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,-,-,JAN-DEC,52000103,5200074
+622,FISH,Freshwater Fish,Channel catfish,Ictalurus punctatus, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,-,-,JAN-DEC,52000103,5200072
+623,FISH,Freshwater Fish,Common carp,Cyprinus carpio, , ,0,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,-,-,JAN-DEC,52000103,5200058
+624,FISH,Estuarine Resident,Fourspine stickleback,Apeltes quadracus, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,MAR-MAY,-,-,-,JAN-DEC,52000103,5200032
+625,FISH,Marine Benthic Fish,Gobies, , , ,0,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,-,-,JAN-DEC,52000103,5200092
+626,FISH,Freshwater Fish,Golden shiner,Notemigonus crysoleucas, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,-,-,JAN-DEC,52000103,5200079
+627,FISH,Estuarine Nursery Fish,Hogchoker,Trinectes maculatus, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,MAY-OCT,JAN-DEC,NOV-APR,52000103,5200082
+628,FISH,Estuarine Resident,Killifish,Fundulus spp., , ,0,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,JUN-AUG,-,-,-,JAN-DEC,52000103,5200076
+629,FISH,Freshwater Fish,Largemouth bass,Micropterus salmoides, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,-,-,JAN-DEC,52000103,5200063
+630,FISH,Freshwater Fish,Pumpkinseed,Lepomis gibbosus, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,JUN-AUG,-,-,-,JAN-DEC,52000103,5200075
+631,FISH,Freshwater Fish,Rainbow smelt,Osmerus mordax, ,G5,200412,RARE,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,-,JAN-DEC,OCT-APR,52000103,5200019
+632,FISH,Diadromous Fish,Shortnose sturgeon,Acipenser brevirostrum,State/Federal Endangered List,G3,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,MAY-AUG,MAY-AUG,JAN-DEC,52000103,5200039
+633,FISH,Estuarine Resident,Silversides, , , ,0,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,-,-,JAN-DEC,52000103,5200077
+634,FISH,Freshwater Fish,Smallmouth bass,Micropterus dolomieu, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,-,-,JAN-DEC,52000103,5200066
+635,FISH,Freshwater Fish,Spottail shiner,Notropis hudsonius, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,-,-,JAN-DEC,52000103,5200060
+636,FISH,Diadromous Fish,Striped bass,Morone saxatilis, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,APR-JUN,APR-JUN,APR-JUN,JAN-DEC,MAR-NOV,52000103,5200045
+637,FISH,Estuarine Resident,Threespine stickleback,Gasterosteus aculeatus, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,MAR-MAY,-,-,-,JAN-DEC,52000103,5200031
+638,FISH,Freshwater Fish,Walleye,Stizostedion vitreum vitreum, , ,0,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,-,-,JAN-DEC,52000103,5200071
+639,FISH,Freshwater Fish,White catfish,Ameiurus catus, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,-,-,JAN-DEC,52000103,5200085
+640,FISH,Estuarine Nursery Fish,White perch,Morone americana, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,MAY-JUL,JAN-DEC,JAN-DEC,52000103,5200054
+641,FISH,Freshwater Fish,Yellow perch,Perca flavescens, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,-,-,JAN-DEC,52000103,5200056
+642,FISH,Diadromous Fish,Alewife,Alosa pseudoharengus, ,G5,200412,-, , ,X,X,X,X,X,X,X,X,X,X,Mar-Dec,-,-,APR-JUN,MAY-DEC,MAR-JUL,52000104,5200022
+643,FISH,Diadromous Fish,American eel,Anguilla rostrata, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,-,JAN-DEC,-,52000104,5200034
+644,FISH,Diadromous Fish,American shad,Alosa sapidissima, ,G5,200412,-, , ,X,X,X,X,X,X,X,X,X,X,Mar-Dec,-,-,-,MAY-DEC,MAR-JUL,52000104,5200028
+645,FISH,Estuarine Nursery Fish,Atlantic menhaden,Brevoortia tyrannus, , ,0,-, , , , ,X,X,X,X, , , , ,May-Aug,-,-,-,MAY-AUG,MAY-AUG,52000104,5200049
+646,FISH,Estuarine Resident,Silversides, , , ,0,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,-,-,JAN-DEC,52000110,5200077
+647,FISH,Diadromous Fish,Striped bass,Morone saxatilis, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,APR-JUN,JAN-DEC,JAN-DEC,52000110,5200046
+648,FISH,Estuarine Nursery Fish,Striped mullet,Mugil cephalus, , ,0,-, , , , ,X,X,X,X, , , , ,May-Aug,-,-,-,MAY-AUG,MAY-AUG,52000110,5200050
+649,FISH,Estuarine Nursery Fish,Summer flounder,Paralichthys dentatus, , ,0,-, , , , ,X,X,X,X, , , , ,May-Aug,-,-,-,-,MAY-AUG,52000110,5200047
+650,FISH,Marine Benthic Fish,Tautog,Tautoga onitis, , ,0,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,-,JAN-DEC,-,52000110,5200033
+651,FISH,Estuarine Resident,Threespine stickleback,Gasterosteus aculeatus, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,MAR-MAY,-,-,-,JAN-DEC,52000110,5200031
+652,FISH,Marine Pelagic Fish,Weakfish,Cynoscion squamipinnis, , ,0,-, , , , ,X,X,X,X,X,X, , ,May-Oct,MAY-JUL,-,-,JUL-OCT,MAY-JUL,52000110,5200086
+653,FISH,Estuarine Nursery Fish,White mullet,Mugil curema, , ,0,-, , , , ,X,X,X,X, , , , ,May-Aug,-,-,-,MAY-AUG,MAY-AUG,52000110,5200061
+654,FISH,Estuarine Nursery Fish,White perch,Morone americana, ,G5,200412,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,-,JAN-DEC,JAN-DEC,52000110,5200051
+655,FISH,Estuarine Nursery Fish,Winter flounder,Pleuronectes americanus, , ,0,-,X,X,X,X,X,X,X,X,X,X,X,X,Jan-Dec,-,-,-,JAN-DEC,-,52000110,5200030
