@@ -182,8 +182,8 @@
         let fishPoly = new Map();
 
         Promise.all([
-            d3.json("fish_polygon.geojson"), 
-            d3.csv("fish_bio.csv", function(d) {
+            d3.json("datafile/fish_polygon.geojson"), 
+            d3.csv("datafile/fish_bio.csv", function(d) {
                 // we've already added things for this polygon
                 if (fishPoly.get(+d.RARNUM)) {
                     fishPoly.set(+d.RARNUM, fishPoly.get(+d.RARNUM).concat(d))
